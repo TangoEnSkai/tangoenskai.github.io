@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Andrew Fong"]
   spec.email         = ["id@andrewfong.com"]
 
-  spec.summary       = %q{The Hyde theme for Jekyll, refreshed.}
-  spec.homepage      = "https://github.com/fongandrew/hydeout"
+  spec.summary       = %q{Tokyo Tech theme for Jekyll, refreshed.}
+  spec.homepage      = "https://github.com/tangoenskai"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
