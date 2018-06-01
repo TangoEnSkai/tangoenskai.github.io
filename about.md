@@ -4,96 +4,106 @@ title: About
 permalink: /about/
 ---
 
-**I skate to where the puck is going to be, not where it has been. Wayne Gretzky**
+### I skate to where the puck is going to be, not where it has been. Wayne Gretzky### 
 
+**Jun Hahn**  is a master’s student in the Department of Transdisciplinary Science and Engineering, School of Environment and Society at Tokyo Institute of Technology, Tokyo, Japan. He received a bachelor’s degree in computer science and engineering Dongguk University, Seoul, Republic of Korea. He is interested in Psychometrics, Universal Design, and Human-Computer Interaction, exploring visual impairment and human technology through interdisciplinary research. As an ACM SIGCHI Communication Ambassador, he wants to encourage researchers to engage with human/social aspects of technology, and HCI in order to tackle problems such as terminal disability and aging society with technology usage.
 
-**Jun Hahn** is a master’s student in the Department of Transdisciplinary Science and Engineering, School of Environment and Society at Tokyo Institute of Technology, Tokyo, Japan. He received a bachelor’s degree in computer science and engineering Dongguk University, Seoul, Republic of Korea. He is interested in Psychometrics, Universal Design, and Human-Computer Interaction, exploring visual impairment and human technology through interdisciplinary research. As an ACM SIGCHI Communication Ambassador, he wants to encourage researchers to engage with human/social aspects of technology, and HCI in order to tackle problems such as terminal disability and aging society with technology usage.
+# Curriculum Vitae
 
+## __CURRENT POSITION__
 
-### Curriculum Vitae  
-
-#### __CURRENT POSITION__
-
-**Master’s Student at Tokyo Institute of Technology**
+### Master’s Student at Tokyo Institute of Technology### 
 Apr. 2017 to present
 Global Engineering for Development, Environment and Society, Department of Transdisciplinary Science and Engeering, School of Environment and Society
 
-**Communication Ambassador at ACM SIGCHI**
+### Communication Ambassador at ACM SIGCHI### 
 Mar. 2017 to present
 Being a SIGCHI Communication Ambassador is an exclusive opportunity for students, researcher and professionals active in the field of Human-Computer Interaction (HCI) around the world to spread the word about SIGCHI’s mission and members’ activities across the globe.
 
-#### __EDUCATION__
+## EDUCATION
 
-**Tokyo Institute of Technology, Tokyo, Japan**
-Master’s Programme
-Apr. 2017 to present (GPA: 94.1/100)
-Research Topics: Human-Computer Interaction, Disability studies
+### Tokyo Institute of Technology, Tokyo, Japan
+
+**Master of Science**
+Apr. 2017 to present __### (GPA: 94.1/100)### __
+Research Topics: Psychometrics, Universial Design, User-Centred Design
 Graduate Major in Global Engineering for Development, Environment and Society,
 Department of Transdisciplinary Science and Engineering,
 School of Environment and Society,
 Tokyo Institute of Technology
 
-**Dongguk University, Seoul, Republic of Korea**
-Bachelor of Science in Computer Science and Engineering
+### Dongguk University, Seoul, Republic of Korea
+
+### Bachelor of Science in Computer Science and Engineering### 
 Mar. 2009 to Oct. 2016 (GPA: 91.1%)
 Leave of Absence 
      Feb. 2011 to Dec. 2012: Study Abroad – B.C., Canada
      Jan. 2012 to Feb. 2012: Study Abroad – Ishikawa, Japan
      Mar. 2013 to Mar. 2015: Military Service
 
-#### __EXPERIENCE__
+## EXPERIENCE
 
-**Software Engineering Intern at Eventacular**
+### Software Engineering Intern at Eventacular
+
 Mar. 2018 to Present
 Backend and Frontend Software Development
 
-**Communication Ambassador**
+### Communication Ambassador
+
 ACM SIGCHI
 Mar. 2017 to present
 Being a SIGCHI Communication Ambassador is an exclusive opportunity for students, researcher and professionals active in the field of Human-Computer Interaction (HCI) around the world to spread the word about SIGCHI’s mission and members’ activities across the globe.
 
-**Intern at INFERRET JAPAN**
+###Intern at INFERRET JAPAN
+
 Feb. 2018 to Apr. 2018
 Image Recognition Project
 
-**Teaching Assistant**
+### Teaching Assistant
+
 Tokyo Institute of Technology, Tokyo, Japan
 Sep. 2017 to Nov. 2017
 LAW.X115 “Introduction to Society and Technology”
 
-**Internship Programme**
+## Internship Programme
+
 Science Museum, London, United Kingdom
 Aug. 2017 to Aug. 2017
 Tokyo Tech Internship Programme
 LAW.X401 Science Communication Science & Engineering Design for Global Talents – Overseas Programme: Working for Science Communication and researching on communication and interaction skills in the museum.
 http://www.sciencemuseum.org.uk
 
-**Teaching Assistant**
+### Teaching Assistant
+
 Tokyo Institute of Technology, Tokyo, Japan
 Jun. 2017 to Aug. 2017
 TSE.C203 “Social Design Project”
 
-**Teaching Assistant**
+### Teaching Assistant
+
 Dongguk University, Seoul, Republic of Korea
 Mar. 2016 to Jun. 2016
 TA for a compulsory undergraduate course, Software in the future society [RGC 1040-02], for new student at the university. Roles were evaluating students’ assignment, reports and exams as well as answering their questions.
 
-**Public Officer**
+### Public Officer
+
 Sangju City Hall, Gyeongsangbuk-do, Republic of Korea
 Feb. 2014 to Mar. 2015
 Worked as a public officer in a community centre to provide public service to citizenry.
 
-**Public Officer**
+### Public Officer
+
 Central District Office (Jung-gu Office), Seoul, Republic of Korea
 Apr. 2013 to Feb. 2014
 Worked as a public officer in a community centre to public service for companies and people.
 
-**Research Project Assistant**
+### Research Project Assistant
+
 Dongguk University, Seoul, Republic of Korea
 May. 2010 to Jan. 2011
 Worked as an administration assistant at Visual Simulation Lab.
 
-#### __WORKSHOPS & EVENTS__
+## WORKSHOPS & EVENTS
 
 Technology and Product in Context 
 CSM, University of the Arts London  @Tokyo Tech
@@ -130,7 +140,7 @@ Excellence Award
 Jeonggakwon, Dongguk University, Seoul
 Jun. 2012
 
-#### __SCHOLARSHIPS__
+## SCHOLARSHIPS
 
 Half Tuition Fees: 3rd Quarter and 4th Quarter (Fall, 2017)
 Tokyo Institute of Technology, Tokyo, Japan
@@ -156,7 +166,7 @@ Japanese Language Program Scholarship
 Ishikawa Foundation for International Exchange
 Feb. 2012
 
-#### __PUBLICATIONS__
+## PUBLICATIONS
 
 2018
 
@@ -175,7 +185,7 @@ June HAN and Tom Hope. 2018. Pair Matching: Transdisciplinary Study for Introduc
 
 J. HAN, et al., 2015. “An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module.” In KIISE(Korean Institute of Information Scientists and Engineers) winter symposium 2015
 
-#### __PATENTS__
+## PATENTS
 
 Patent Registered and Issued
 
@@ -189,7 +199,7 @@ Filed Patent Application, Patent Pending
 
 Patent Application Number: 10-2015-0191604, Korean Intellectual Property Office, “Method for improving landing accuracy of Unmanned Aerial Vehicle and apparatus thereof”, J. HAN, K. W. LEE, J. S. KIM, J. H. KIM, J. H. YANG
 
-#### __CERTIFICATIONS AND LICENSURE__
+## CERTIFICATIONS AND LICENSURE
 
 level 4, Intellectual Property Ability Test
 Korea Invention Promotion Association
@@ -203,9 +213,9 @@ National Technical Qualification: Engineer Information Processing
 Human Resources Development Service of Korea
 Nov. 2014
 
-#### __SKILLS__
+## SKILLS
 
-**Programming Languages**
+### Programming Languages
 
 Advanced: C/C++, C#
 
@@ -213,18 +223,18 @@ Moderate: Python, Java, HTML/CSS/Javascript, Assembly Language
 
 Novice: Elixir, OCaml, Prolog, Lisp
 
-**Software Tools**
+### Software Tools Skills
 
 Microsoft Excel for numerical mathematics/analysis, statistical calculation
 Git, Github
 
-**Language Skills**
+### Language Skills
 
 Korean: Native Language
 English: Fluent (speaking, reading, writing)
 Japanese: Intermediate-high (speaking), intermediate (reading, writing)
 
-#### __Note__
+## Note
 
 Name Spelling Change in English since Mar 4th 2018 (Previous: June Han)
 
