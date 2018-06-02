@@ -13,6 +13,6 @@ He is interested in **Psychometrics, Universal Design, and Human-Computer Intera
 As an `ACM SIGCHI Communication Ambassador`, he wants to encourage researchers to engage with human/social aspects of technology, and HCI in order to tackle problems such as terminal disability and aging society with technology usage.  
 
 
-### Contact me
+### Contact Me
 
 [Jun's Tokyo Tech Email](mailto:han.j.ag@m.titech.ac.jp)

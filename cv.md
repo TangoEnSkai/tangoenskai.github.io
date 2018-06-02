@@ -16,6 +16,8 @@ School of Environment and Society
 **Mar. 2017 to present**  
 Being a SIGCHI Communication Ambassador is an exclusive opportunity for students, researcher and professionals active in the field of Human-Computer Interaction (HCI) around the world to spread the word about SIGCHI’s mission and members’ activities across the globe.
 
+---
+
 ## EDUCATION
 
 ### Tokyo Institute of Technology, Tokyo, Japan
@@ -38,6 +40,8 @@ by Accreditation Board for Engineering Education of Korea
 >>    Feb. 2011 to Dec. 2012: Study Abroad – B.C., Canada
 >>    Jan. 2012 to Feb. 2012: Study Abroad – Ishikawa, Japan
 >>    Mar. 2013 to Mar. 2015: Military Service
+
+---
 
 ## EXPERIENCE
 
@@ -103,6 +107,7 @@ Worked as a public officer in a community centre to public service for companies
 May. 2010 to Jan. 2011  
 Worked as an administration assistant at Visual Simulation Lab.  
 
+---
 
 ## WORKSHOPS & EVENTS
 
@@ -118,6 +123,8 @@ http://blogs.arts.ac.uk/csm/2017/10/17/tokyo-second/#
 ### Design Workshop  
 d.school Stanford University @Tokyo Tech  
 Mar 2017  
+
+---
 
 ## HONOURS AND AWARDS  
 
@@ -140,6 +147,8 @@ Dec. 2012
 ### Excellence Award  
 Jeonggakwon, Dongguk University, Seoul  
 Jun. 2012  
+
+---
 
 ## SCHOLARSHIPS
 
@@ -167,6 +176,8 @@ Jun. 2012
 Ishikawa Foundation for International Exchange  
 Feb. 2012  
 
+---
+
 ## PUBLICATIONS
 
 ### 2018
@@ -177,6 +188,7 @@ Feb. 2012
 
 **J. HAN**, et al., 2015. An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module. Winter Annual Korean Institute of Information Scientists and Engineers (KIISE) symposium 2015, Pyeongchang, Republic of Korea, pp.1473~1475
 
+---
 
 ## PRESENTATIONS
 
@@ -187,6 +199,8 @@ Feb. 2012
 ### 2015
 
 **J. HAN**, et al., 2015. “An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module.” In KIISE(Korean Institute of Information Scientists and Engineers) winter symposium 2015
+
+---
 
 ## PATENTS
 
@@ -202,6 +216,8 @@ Patent Application Number:10-2016-0006783, Korean Intellectual Property Office, 
 
 Patent Application Number: 10-2015-0191604, Korean Intellectual Property Office, “Method for improving landing accuracy of Unmanned Aerial Vehicle and apparatus thereof”, J. HAN, K. W. LEE, J. S. KIM, J. H. KIM, J. H. YANG
 
+---
+
 ## CERTIFICATIONS AND LICENSURE
 
 **level 4, Intellectual Property Ability Test**  
@@ -215,6 +231,8 @@ Nov. 2015
 **National Technical Qualification: Engineer Information Processing**  
 Human Resources Development Service of Korea  
 Nov. 2014  
+
+---
 
 ## SKILLS
 
@@ -234,6 +252,8 @@ Microsoft Excel for numerical mathematics/analysis, statistical calculation
 Korean: Native Language  
 English: Fluent (speaking, reading, writing)  
 Japanese: Intermediate-high (speaking), intermediate (reading, writing)  
+
+---
 
 ## Note
 
