@@ -46,6 +46,7 @@ by Accreditation Board for Engineering Education of Korea
 ## EXPERIENCE
 
 ### Software Engineering Intern
+__**Software Engineering Intern**__
 
 **Eventacular**, Tokyo, Japan  
 Mar. 2018 to Present  
