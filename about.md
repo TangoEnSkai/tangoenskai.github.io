@@ -11,4 +11,4 @@ permalink: /about/
 
 ### Contact me
 
-[han.j.ag[at]m.titech.ac.jp](mailto:han.j.ag@m.titech.ac.jp)
+[Jun's Tokyo Tech Email](mailto:han.j.ag@m.titech.ac.jp)
