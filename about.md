@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-> I skate to where the puck is going to be, not where it has been. -Wayne Gretzky
+ `I skate to where the puck is going to be, not where it has been. -Wayne Gretzky`
 
 **Jun Hahn**  is a master’s student at `the Department of Transdisciplinary Science and Engineering, Tokyo Institute of Technology, Tokyo, Japan`.  
 He received a bachelor’s degree in **computer science and engineering** `Dongguk University, Seoul, Republic of Korea`.  
