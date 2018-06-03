@@ -48,9 +48,9 @@ by Accreditation Board for Engineering Education of Korea
 ## EXPERIENCE
 
 **Software Engineering Intern**
-> **Eventacular**, Tokyo, Japan  
-> Mar. 2018 to Present  
-> Backend and Frontend Software Development  
+**Eventacular**, Tokyo, Japan  
+Mar. 2018 to Present  
+Backend and Frontend Software Development  
 
 ### Communication Ambassador
 
