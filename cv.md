@@ -37,10 +37,10 @@ Mar. 2009 to Oct. 2016 (GPA: 91.1%)
 Advancded Computer Science and Engineering Course  
 by Accreditation Board for Engineering Education of Korea  
 
->Leave of Absence  
->    Feb. 2011 to Dec. 2012: Study Abroad – B.C., Canada  
->    Jan. 2012 to Feb. 2012: Study Abroad – Ishikawa, Japan  
->    Mar. 2013 to Mar. 2015: Military Service  
+_Leave of Absence_
+_* Feb. 2011 to Dec. 2012: Study Abroad – B.C., Canada_ 
+_* Jan. 2012 to Feb. 2012: Study Abroad – Ishikawa, Japan_ 
+_* Mar. 2013 to Mar. 2015: Military Service_
 
 
 ---
