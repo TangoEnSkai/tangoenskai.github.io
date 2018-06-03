@@ -47,64 +47,54 @@ by Accreditation Board for Engineering Education of Korea
 
 ## EXPERIENCE
 
-**Software Engineering Intern**
-**Eventacular**, Tokyo, Japan  
+**Software Engineering Intern**  
+_Eventacular_, Tokyo, Japan  
 Mar. 2018 to Present  
 Backend and Frontend Software Development  
 
-### Communication Ambassador
-
-**ACM SIGCHI**  
+**Communication Ambassador**  
+_ACM SIGCHI_  
 Mar. 2017 to present  
 Being a SIGCHI Communication Ambassador is an exclusive opportunity for students, researcher and professionals active in the field of Human-Computer Interaction (HCI) around the world to spread the word about SIGCHI’s mission and members’ activities across the globe.
 
-### Intern
-
-**Inferret**, Tokyo, Japan  
+**Intern**  
+_Inferret_, Tokyo, Japan  
 Feb. 2018 to Apr. 2018  
 Image Recognition Project  
 
-### Teaching Assistant
-
-**Tokyo Institute of Technology**, Tokyo, Japan  
+**Teaching Assistant**  
+_Tokyo Institute of Technology_, Tokyo, Japan  
 Sep. 2017 to Nov. 2017  
 LAW.X115 “Introduction to Society and Technology”  
 
-### Internship Programme
-
-**Science Museum**, London, United Kingdom  
+**Internship Programme**  
+_Science Museum_, London, United Kingdom  
 Aug. 2017 to Aug. 2017  
 Tokyo Tech Internship Programme  
-LAW.X401 Science Communication Science & Engineering Design for Global Talents – Overseas Programme:    Working for Science Communication and researching on communication and interaction skills in the museum.  
-http://www.sciencemuseum.org.uk  
+LAW.X401 Science Communication Science & Engineering Design for Global Talents – Overseas Programme:    Working for Science Communication and researching on communication and interaction skills in the [museum](http://www.sciencemuseum.org.uk)  
 
-### Teaching Assistant
-
-**Tokyo Institute of Technology**, Tokyo, Japan  
+**Teaching Assistant**  
+_Tokyo Institute of Technology_, Tokyo, Japan  
 Jun. 2017 to Aug. 2017  
 TSE.C203 “Social Design Project”  
 
-### Teaching Assistant
-
-**Dongguk University**, Seoul, Republic of Korea   
+**Teaching Assistant**  
+_Dongguk University_, Seoul, Republic of Korea   
 Mar. 2016 to Jun. 2016  
 TA for a compulsory undergraduate course, Software in the future society [RGC 1040-02], for new student at the university. Roles were evaluating students’ assignment, reports and exams as well as answering their questions.
 
-### Public Officer
-
-**Sangju City Hall**, Gyeongsangbuk-do, Republic of Korea  
+**Public Officer**  
+_Sangju City Hall_, Gyeongsangbuk-do, Republic of Korea  
 Feb. 2014 to Mar. 2015  
 Worked as a public officer in a community centre to provide public service to citizenry.  
 
-### Public Officer
-
-**Central District Office (Jung-gu Office)**, Seoul, Republic of Korea  
+**Public Officer**  
+_Central District Office (Jung-gu Office)_, Seoul, Republic of Korea  
 Apr. 2013 to Feb. 2014  
 Worked as a public officer in a community centre to public service for companies and people.  
 
-### Research Project Assistant
-
-**Dongguk University**, Seoul, Republic of Korea  
+**Research Project Assistant**  
+_Dongguk University_, Seoul, Republic of Korea  
 May. 2010 to Jan. 2011  
 Worked as an administration assistant at Visual Simulation Lab.  
 
@@ -112,41 +102,41 @@ Worked as an administration assistant at Visual Simulation Lab.
 
 ## WORKSHOPS & EVENTS
 
-### Technology and Product in Context  
-CSM, University of the Arts London  @Tokyo Tech  
+**Technology and Product in Context**  
+_CSM, University of the Arts London_  @Tokyo Tech  
 Feb 2018  
 
-### Designing Wearable lights  
-CSM, University of the Arts London  @Tokyo Tech  
+**Designing Wearable lights**  
+_CSM, University of the Arts London_  @Tokyo Tech  
 Nov 2017  
 http://blogs.arts.ac.uk/csm/2017/10/17/tokyo-second/#  
 
-### Design Workshop  
-d.school Stanford University @Tokyo Tech  
+**Design Thnking Workshop**  
+_d.school, Stanford University_ @Tokyo Tech  
 Mar 2017  
 
 ---
 
 ## HONOURS AND AWARDS  
 
-### Achievement Award  
-Korean Information Technology Supporters  
+**Achievement Award**  
+_Korean Information Technology Supporters_  
 Dec. 2015  
 
-### Excellence Award of Graduation Project  
-Dept. of Computer Sci. and Eng., Dongguk University, Seoul  
+**Excellence Award of Graduation Project**  
+_Dept. of Computer Sci. and Eng., Dongguk University_, Seoul  
 Nov. 2015  
 
-### The President’s Special Award  
-President of Dongguk University, Seoul  
+**The President’s Special Award**  
+_the President of Dongguk University_, Seoul  
 Nov. 2015  
 
-### The First Prize  
-Dept. of Computer Sci. and Eng., Dongguk University, Seoul  
+**The First Prize**  
+_Dept. of Computer Sci. and Eng., Dongguk University_, Seoul  
 Dec. 2012  
 
-### Excellence Award  
-Jeonggakwon, Dongguk University, Seoul  
+**Excellence Award**  
+_Jeonggakwon_, Dongguk University, Seoul  
 Jun. 2012  
 
 ---
@@ -154,27 +144,27 @@ Jun. 2012
 ## SCHOLARSHIPS
 
 **Half Tuition Fees: 3rd Quarter and 4th Quarter (Fall, 2017)**  
-Tokyo Institute of Technology, Tokyo, Japan  
+_Tokyo Institute of Technology_, Tokyo, Japan  
 Sep. 2017 to Feb. 2018  
 
 **Full Tuition Fees: 1st Quarter and 2nd Quarter (Spring, 2017)**  
-Tokyo Institute of Technology, Tokyo, Japan  
+_Tokyo Institute of Technology_, Tokyo, Japan  
 Apr. 2017 to Aug. 2017  
 
 **Monbukagakusho Honors Scholarship**  
-Japanese Student Service Organization, Japan  
+_Japanese Student Service Organization_, Japan  
 Apr. 2017 to Mar. 2018  
 
 **Teaching Assistant Scholarship**  
-Dongguk University, Seoul, Republic of Korea  
+_Dongguk University_, Seoul, Republic of Korea  
 Mar. 2015 to Jun. 2015  
 
 **Photography Exhibition Winner Scholarship**  
-Dongguk University, Seoul, Republic of Korea  
+_Dongguk University_, Seoul, Republic of Korea  
 Jun. 2012  
 
 **Japanese Language Program Scholarship**  
-Ishikawa Foundation for International Exchange  
+_Ishikawa Foundation for International Exchange_, Ishikawa, Japan  
 Feb. 2012  
 
 ---
@@ -207,14 +197,12 @@ Feb. 2012
 
 ### Patent Registered and Issued
 
-**26th Jan 2016**
-
+**26th Jan 2016**  
 Patent Application Number:10-2016-0006783, Korean Intellectual Property Office, “Unmanned Aerial Vehicle for improving landing accuracy and station comprising rotational linear slide rail”, **J. HAN**, K. W. LEE, J. S. KIM, J. H. KIM, J. H. YANG
 
 ### Filed Patent Application, Patent Pending
 
-**31st Dec 2016**
-
+**31st Dec 2016**  
 Patent Application Number: 10-2015-0191604, Korean Intellectual Property Office, “Method for improving landing accuracy of Unmanned Aerial Vehicle and apparatus thereof”, J. HAN, K. W. LEE, J. S. KIM, J. H. KIM, J. H. YANG
 
 ---
@@ -222,15 +210,15 @@ Patent Application Number: 10-2015-0191604, Korean Intellectual Property Office,
 ## CERTIFICATIONS AND LICENSURE
 
 **level 4, Intellectual Property Ability Test**  
-Korea Invention Promotion Association  
+_Korea Invention Promotion Association_  
 Nov. 2015  
 
 **IoT(Internet of Things) Smart convergence expert training programme**  
-Intel Korea and Seoul National University of Science and Technology  
+_Intel Korea_ and _Seoul National University of Science and Technology_  
 Nov. 2015  
 
 **National Technical Qualification: Engineer Information Processing**  
-Human Resources Development Service of Korea  
+_Human Resources Development Service of Korea_  
 Nov. 2014  
 
 ---
@@ -258,7 +246,7 @@ Japanese: Intermediate-high (speaking), intermediate (reading, writing)
 
 ## Note
 
-Name Spelling Change in English since Mar 4th 2018 (Previous: June Han)  
+Name Spelling Change in English since Mar 4th 2018 `(Previous: June Han)`  
 
 ### Contact Me
 
