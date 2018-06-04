@@ -31,8 +31,8 @@ Department of Transdisciplinary Science and Engineering,
 School of Environment and Society,  
 _Tokyo Institute of Technology_
 
-**Dongguk University, Seoul, Republic of Korea**
-**Bachelor of Science in Computer Science and Engineering (Advanced Course)**  
+**Dongguk University, Seoul, Republic of Korea**  
+**Bachelor of Science in Computer Science and Engineering (Advanced Course**  
 Mar. 2009 to Oct. 2016 **(GPA: 91.1%)**  
 Advancded Computer Science and Engineering Course  
 by Accreditation Board for Engineering Education of Korea  
