@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-## CURRENT POSITION
+## CURRENT POSITION(S)
 
 ### Master’s Student at Tokyo Institute of Technology
 **Apr. 2017 to present**  
@@ -124,7 +124,7 @@ Feb 2018
 **Designing Wearable lights**  
 _CSM, University of the Arts London_  @Tokyo Tech  
 Nov 2017  
-http://blogs.arts.ac.uk/csm/2017/10/17/tokyo-second/#  
+[CSM x TokyoTech](http://blogs.arts.ac.uk/csm/2017/10/17/tokyo-second/#)  
 
 **Design Thnking Workshop**  
 _d.school, Stanford University_ @Tokyo Tech  
