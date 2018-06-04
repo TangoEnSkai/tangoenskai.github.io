@@ -3,7 +3,7 @@ layout: post
 title: “The world is not a desktop.” -Mark Weiser
 ---
 
-Hi, There? I am **Jun**, a master’s student at **Department of Transdisciplinary Science and Engineering, School of Environment and Society, Tokyo Institute of Technology** and communication ambassador of **(ACM SIGCHI)[https://sigchi.org/people/volunteer-spotlight/]**.
+Hi, There? I am **Jun**, a master’s student at **Department of Transdisciplinary Science and Engineering, School of Environment and Society, Tokyo Institute of Technology** and communication ambassador of **`(ACM SIGCHI)[https://sigchi.org/people/volunteer-spotlight/]`**.
 
 <!-- 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
