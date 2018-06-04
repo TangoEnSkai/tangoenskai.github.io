@@ -16,6 +16,19 @@ School of Environment and Society
 **Mar. 2017 to present**  
 Being a SIGCHI Communication Ambassador is an exclusive opportunity for students, researcher and professionals active in the field of Human-Computer Interaction (HCI) around the world to spread the word about SIGCHI’s mission and members’ activities across the globe.
 
+### Software Engineering Intern at Eventacular
+**Mar. 2018 to present**  
+* Responsibilities:
+  * Development of a web service frontend using React.js and Relay
+  * Development of a web service backend using Phoenix (a Rails-like web framework written Elixir) and GraphQL
+  * Writing tests for the frontend and backend
+  * Use of Docker containers for development and deployment
+  * Writing automation tasks for continuous integration and continuous deployment
+  * Documenting code
+  * Version control using Git
+  * Use of tools such as Pivotal Tracker, Slack, Github, and Circle CI
+  * Following an agile development process including test-driven development, pair programming, and continuous releases
+
 
 ---
 
