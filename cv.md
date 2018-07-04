@@ -73,7 +73,7 @@ Being a SIGCHI Communication Ambassador is an exclusive opportunity for students
 **Intern**  
 _Inferret_, Tokyo, Japan  
 Feb. 2018 to Apr. 2018  
-Image Recognition Project  
+Research Project (Classified) 
 
 **Teaching Assistant**  
 _Tokyo Institute of Technology_, Tokyo, Japan  
