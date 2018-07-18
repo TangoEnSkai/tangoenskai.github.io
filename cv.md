@@ -16,22 +16,7 @@ School of Environment and Society
 **Mar. 2017 to present**  
 Being a SIGCHI Communication Ambassador is an exclusive opportunity for students, researcher and professionals active in the field of Human-Computer Interaction (HCI) around the world to spread the word about SIGCHI’s mission and members’ activities across the globe.
 
-### Software Engineering Intern at Eventacular
-**Mar. 2018 to present**  
-* Responsibilities:
-  * Development of a web service frontend using React.js and Relay
-  * Development of a web service backend using Phoenix (a Rails-like web framework written Elixir) and GraphQL
-  * Writing tests for the frontend and backend
-  * Use of Docker containers for development and deployment
-  * Writing automation tasks for continuous integration and continuous deployment
-  * Documenting code
-  * Version control using Git
-  * Use of tools such as Pivotal Tracker, Slack, Github, and Circle CI
-  * Following an agile development process including test-driven development, pair programming, and continuous releases
-
-
 ---
-
 
 ## EDUCATION
 
@@ -50,9 +35,9 @@ Mar. 2009 to Oct. 2016 **(GPA: 91.1%)**
 Advancded Computer Science and Engineering Course  
 by Accreditation Board for Engineering Education of Korea  
 * _Leave of Absence_
-  * _Feb. 2011 to Dec. 2012: Study Abroad – B.C., Canada_ 
-  * _Jan. 2012 to Feb. 2012: Study Abroad – Ishikawa, Japan_ 
-  * _Mar. 2013 to Mar. 2015: Military Service_
+  + _Feb. 2011 to Dec. 2012: Study Abroad – B.C., Canada_ 
+  + _Jan. 2012 to Feb. 2012: Study Abroad – Ishikawa, Japan_ 
+  + _Mar. 2013 to Mar. 2015: Military Service_
 
 
 ---
@@ -60,15 +45,25 @@ by Accreditation Board for Engineering Education of Korea
 
 ## EXPERIENCE
 
-**Software Engineering Intern**  
-_Eventacular_, Tokyo, Japan  
-Mar. 2018 to Present  
-Backend and Frontend Software Development  
-
 **Communication Ambassador**  
 _ACM SIGCHI_  
 Mar. 2017 to present  
 Being a SIGCHI Communication Ambassador is an exclusive opportunity for students, researcher and professionals active in the field of Human-Computer Interaction (HCI) around the world to spread the word about SIGCHI’s mission and members’ activities across the globe.
+
+**Software Engineering Intern**  
+_Eventacular_, Tokyo, Japan  
+Mar. 2018 to Jul. 2018  
+Backend and Frontend Software Development  
+* Responsibilities:
+  + Development of a web service frontend using React.js and Relay
+  + Development of a web service backend using Phoenix (a Rails-like web framework written Elixir) and GraphQL
+  + Writing tests for the frontend and backend
+  + Use of Docker containers for development and deployment
+  + Writing automation tasks for continuous integration and continuous deployment
+  + Documenting code
+  + Version control using Git
+  + Use of tools such as Pivotal Tracker, Slack, Github, and Circle CI
+  + Following an agile development process including test-driven development, pair programming, and continuous releases
 
 **Intern**  
 _Inferret_, Tokyo, Japan  
@@ -162,6 +157,10 @@ Jun. 2012
 
 ## SCHOLARSHIPS
 
+**Half Tuition Fees: 1st Quarter and 2nd Quarter (Spring, 2018)**  
+_Tokyo Institute of Technology_, Tokyo, Japan  
+Apr. 2018 to Aug. 2018  
+
 **Half Tuition Fees: 3rd Quarter and 4th Quarter (Fall, 2017)**  
 _Tokyo Institute of Technology_, Tokyo, Japan  
 Sep. 2017 to Feb. 2018  
@@ -194,11 +193,13 @@ Feb. 2012
 
 ### 2018
 
-**J. HAN** and T. Hope. 2018. Pair Matching: Transdisciplinary Study for Introducing Computational Intelligence to Guide Dog Associations. In Proceedings of the 23rd international conference on Intelligent user interfaces (IUI ’18). ACM, Tokyo, Japan
+**J. Hahn**. 2018. The Importance of Transdisciplinary Research for Potential Universal Design of Bins. _In proceeding of the Tenth Multidisciplinary International Student Workshop (MISW2018)_, Asia Oceania Top University League on Engineering (AOTULE), Tokyo, Japan
+
+**J. HAN** and T. Hope. 2018. Pair Matching: Transdisciplinary Study for Introducing Computational Intelligence to Guide Dog Associations. _In Proceedings of the 23rd international conference on Intelligent user interfaces (IUI ’18)_. ACM, Tokyo, Japan
 
 ### 2015
 
-**J. HAN**, et al., 2015. An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module. Winter Annual Korean Institute of Information Scientists and Engineers (KIISE) symposium 2015, Pyeongchang, Republic of Korea, pp.1473~1475
+**J. HAN**, et al., 2015. An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module. _Winter Annual Korean Institute of Information Scientists and Engineers (KIISE) symposium 2015_, Pyeongchang, Republic of Korea, pp.1473~1475
 
 
 ---
@@ -208,11 +209,15 @@ Feb. 2012
 
 ### 2018 
 
-**J. HAN**. 2018. Pair Matching: Transdisciplinary Study for Introducing Computational Intelligence to Guide Dog Associations. In Proceedings of the 23rd international conference on Intelligent user interfaces (IUI ’18). ACM, Tokyo, Japan
+**J. Hahn**. 2018. Intelligent User Interface: Human-Computer Interaction with Artificial Intelligence. _GEDES Workshop on Students’ Activities_, GEDES, Department of Transdisciplinary Science and Engineering, Tokyo Institute of Technology.
+
+**J. Hahn**. 2018. The Importance of Transdisciplinary Research for Potential Universal Design of Bins. _In proceeding of the Tenth Multidisciplinary International Student Workshop (MISW2018)_, Asia Oceania Top University League on Engineering (AOTULE), Tokyo, Japan
+
+**J. HAN**. 2018. Pair Matching: Transdisciplinary Study for Introducing Computational Intelligence to Guide Dog Associations. _In Proceedings of the 23rd international conference on Intelligent user interfaces (IUI ’18)_. ACM, Tokyo, Japan
 
 ### 2015
 
-**J. HAN**, et al., 2015. “An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module.” In KIISE(Korean Institute of Information Scientists and Engineers) winter symposium 2015
+**J. HAN**, et al., 2015. An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module. _In KIISE(Korean Institute of Information Scientists and Engineers) winter symposium 2015_, KIISE Pyeongchang, Republic of Korea
 
 
 ---
@@ -256,9 +261,9 @@ Nov. 2014
 
 ### Programming Languages
 
-Advanced: C/C++, C#  
-Moderate: Python, Java, HTML/CSS/Javascript, Assembly Language  
-Novice: Elixir, OCaml, Prolog, Lisp  
+* **Advanced**: C/C++ (Compiler Construction)  
+* **Moderate**: C#, Python (Tensorflow), Java (JUnit), Javascript (React, GraphQL, Flow, Jest, Enzyme, Puppeteer), Elixir (Phoenix, Ecto, Absinthe, GraphQL, OTP)
+* **Novice**: Erlang, OCaml, Assembly Language, Prolog, Lisp  
 
 ### Software Tools Skills
 
@@ -267,9 +272,9 @@ Microsoft Excel for numerical mathematics/analysis, statistical calculation
 
 ### Language Skills
 
-Korean: Native Language  
-English: Fluent (speaking, reading, writing)  
-Japanese: Intermediate-high (speaking), intermediate (reading, writing)  
+* Korean: Native Language  
+* English: Fluent (speaking, reading, writing)  
+* Japanese: Intermediate-high (speaking), intermediate (reading, writing)  
 
 
 ---
