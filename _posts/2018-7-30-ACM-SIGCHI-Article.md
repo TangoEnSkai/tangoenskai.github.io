@@ -3,7 +3,7 @@ layout: post
 title: ACM SIGCHI official article by Jun Hahn
 ---
 
-# Human-Computer Interaction (HCI) ON AGEING SOCIETY IN EAST AND NORTH-EAST ASIA (ENEA)
+**Human-Computer Interaction (HCI) ON AGEING SOCIETY IN EAST AND NORTH-EAST ASIA (ENEA)**
 
 **Jun Hahn**, _ACM SIGCHI Communication Ambassador_
 
@@ -13,9 +13,9 @@ In November 2017, there was a symposium about a project called METESE by Nationa
 
 _The original article released at [ACM SIGCHI offical homepage](https://sigchi.org/people/volunteer-spotlight/)_
 
-**References**
-[1] United Nations Economic and Social Commission for Asia and the Pacific. Population Ageing in East and East-North Asia (2018) http://www.unescap.org/ageing-asia/countries
-[2] International Longevity Center Japan. A Profile of Older Japanese (2013) http://www.ilcjapan.org/agingE/
-[3] AIST and VTT. METESE – Meaningful Technology for Seniors http://www.vtt.fi/sites/METESE/
-[4] ACM IUI2018 Accepted Papers http://iui.acm.org/2018/accepted_papers.html
-[5] ACM TVX2018 Workshops https://tvx.acm.org/2018/?page_id=21
+**References**  
+[1] United Nations Economic and Social Commission for Asia and the Pacific. Population Ageing in East and East-North Asia (2018) http://www.unescap.org/ageing-asia/countries  
+[2] International Longevity Center Japan. A Profile of Older Japanese (2013)  http://www.ilcjapan.org/agingE/  
+[3] AIST and VTT. METESE – Meaningful Technology for Seniors http://www.vtt.fi/sites/METESE/  
+[4] ACM IUI2018 Accepted Papers http://iui.acm.org/2018/accepted_papers.html  
+[5] ACM TVX2018 Workshops https://tvx.acm.org/2018/?page_id=21  
