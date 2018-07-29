@@ -12,6 +12,12 @@ As an `ACM SIGCHI Communication Ambassador`, he wants to encourage researchers t
 
 He also runs several study groups with freelancers, software engineers, and postgraduate students to learn more deeply about `machine learning` (especially for reinforcement learning), `web development` (React, Relay, TDD, modern programming paradigms), and `conventional programming` (c/c++ for better performance).
 
+**Favourite quotes:**
+* The world is not a desktop. -**Mark Weiser**  
+* I propose to consider the question, `'Can machines think?'` -**Alan Turing**  
+* Computer science is no more about computers than astronomy is about telescopes. -**Edsger Dijkstra**  
+* Computer science inverts the normal. In normal science, you're given a world, and your job is to find out the rules. In computer science, you give the computer the rules, and it creates the world. - **Alan Kay**  
+* Computer science inverts the normal. In normal science, you're given a world, and your job is to find out the rules. In computer science, you give the computer the rules, and it creates the world. -**Donald Knuth**  
 
 ### Contact Me
 
