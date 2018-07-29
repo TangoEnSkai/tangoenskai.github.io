@@ -3,7 +3,7 @@ layout: post
 title: ACM SIGCHI official article by Jun Hahn
 ---
 
-**Human-Computer Interaction (HCI) ON AGEING SOCIETY IN EAST AND NORTH-EAST ASIA (ENEA)**
+**Human-Computer Interaction (HCI)** ON AGEING SOCIETY IN EAST AND NORTH-EAST ASIA (ENEA)
 
 **Jun Hahn**, _ACM SIGCHI Communication Ambassador_
 
