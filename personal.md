@@ -9,6 +9,9 @@ permalink: /personal/
 * Frenzy - Nein Songs
 * Explosion in the Sky - Those Who Tell The ...
 * Radiohead - Ok Computer
+* Radiohead - Pablo Honey
+* My Bloody Valentine - Loveless 
+* Metalwood - Chronic
 
 ---
 
