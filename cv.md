@@ -193,6 +193,10 @@ Feb. 2012
 
 ### 2018
 
+**J. Hahn** and F. Takahashi. 2018. Universal Design for Bins with Psychological Analysis of People's Preference. _In proceeding of the 10th Asia-Pacific Landfill Symposium (APLAS Tokyo 2018)_, Tokyo, Japan
+
+**J. Hahn** and F. Takahashi. 2018. Potential Universal Design of Bins for Visually Impaired People and Their Psychological Preference Analysis. _In proceeding of the 29th Annual Conference of Japan Society of Material Cycles and Waste Management (JSMCWM2018)_, Nagoya, Japan
+
 **J. Hahn**. 2018. The Importance of Transdisciplinary Research for Potential Universal Design of Bins. _In proceeding of the Tenth Multidisciplinary International Student Workshop (MISW2018)_, Asia Oceania Top University League on Engineering (AOTULE), Tokyo, Japan
 
 **J. HAN** and T. Hope. 2018. Pair Matching: Transdisciplinary Study for Introducing Computational Intelligence to Guide Dog Associations. _In Proceedings of the 23rd international conference on Intelligent user interfaces (IUI ’18)_. ACM, Tokyo, Japan
@@ -208,6 +212,10 @@ Feb. 2012
 ## PRESENTATIONS
 
 ### 2018 
+
+**J. Hahn**. 2018. Universal Design for Bins with Psychological Analysis of People's Preference. _In proceeding of the 10th Asia-Pacific Landfill Symposium (APLAS Tokyo 2018)_, Tokyo, Japan
+
+**J. Hahn**. 2018. Potential Universal Design of Bins for Visually Impaired People and Their Psychological Preference Analysis. _In proceeding of the 29th Annual Conference of Japan Society of Material Cycles and Waste Management (JSMCWM2018)_, Nagoya, Japan
 
 **J. Hahn**. 2018. Intelligent User Interface: Human-Computer Interaction with Artificial Intelligence. _GEDES Workshop on Students’ Activities_, GEDES, Department of Transdisciplinary Science and Engineering, Tokyo Institute of Technology.
 
