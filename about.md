@@ -18,7 +18,7 @@ He also runs several study groups with freelancers, software engineers, and post
 * I propose to consider the question, `'Can machines think?'` -**Alan Turing**  
 * Computer science is no more about computers than astronomy is about telescopes. -**Edsger Dijkstra**  
 * Computer science inverts the normal. In normal science, you're given a world, and your job is to find out the rules. In computer science, you give the computer the rules, and it creates the world. - **Alan Kay**  
-* Computer science inverts the normal. In normal science, you're given a world, and your job is to find out the rules. In computer science, you give the computer the rules, and it creates the world. -**Donald Knuth**  
+* People who are more than casually interested in computers should have at least some idea of what the underlying hardware is like. Otherwise the programs they write will be pretty weird. -**Donald Knuth**  
 
 ### Contact Me
 
