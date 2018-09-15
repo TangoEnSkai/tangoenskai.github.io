@@ -292,4 +292,4 @@ Name Spelling Change in English since Mar 4th 2018 `(Previous: June Han)`
 
 ### Contact Me
 
-[Jun's Tokyo Tech Email](mailto:han.j.ag@m.titech.ac.jp)  
+Please contact me via [LinkedIn](https://www.linkedin.com/in/junhahn/)

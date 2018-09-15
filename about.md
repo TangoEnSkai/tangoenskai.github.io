@@ -21,4 +21,4 @@ He also runs several study groups with freelancers, software engineers, and post
 
 ### Contact Me
 
-[Jun's Tokyo Tech Email](mailto:han.j.ag@m.titech.ac.jp)
+Please contact me via [LinkedIn](https://www.linkedin.com/in/junhahn/)
