@@ -288,8 +288,4 @@ Microsoft Excel for numerical mathematics/analysis, statistical calculation
 
 ## Note
 
-Name Spelling Change in English since Mar 4th 2018 `(Previous: June Han)`  
-
-### Contact Me
-
-Please contact me via [LinkedIn](https://www.linkedin.com/in/junhahn/)
+Name Spelling Change in English since Mar 4th 2018 `(Previous: June Han)`
