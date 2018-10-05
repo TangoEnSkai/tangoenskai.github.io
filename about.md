@@ -10,7 +10,7 @@ He is interested in **Psychometrics**, **Universal Design**, and **Interaction D
 
 As an `ACM SIGCHI Communication Ambassador`, he wants to encourage researchers to engage with human/social aspects of technology, and HCI in order to tackle problems such as terminal disability and aging society with technology usage.  
 
-He also runs several study groups with freelancers, software engineers, and postgraduate students to learn more deeply about `machine learning` (especially for reinforcement learning), and `web development` (Golang, React, Relay, TDD, DDD, modern programming paradigms). He is going to work for **[Mercari Inc.](https://about.mercari.com/)**, <u>which is the first in Japan to reach “unicorn” status</u> , as a **Software Engineer (Backend: Golang, Microservices)** from April 2019.
+He also runs several study groups with freelancers, software engineers, and postgraduate students to learn more deeply about `machine learning` (especially for reinforcement learning), and `web development` (Golang, React, Relay, TDD, DDD, modern programming paradigms). He is going to work for **[Mercari Inc.](https://about.mercari.com/)**, *which is the first in Japan to reach “unicorn” status* , as a **Software Engineer (Backend: Golang, Microservices)** from April 2019.
 
 **Favourite quotes:**
 
