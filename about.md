@@ -10,7 +10,7 @@ He is interested in **Psychometrics**, **Universal Design**, and **Interaction D
 
 As an `ACM SIGCHI Communication Ambassador`, he wants to encourage researchers to engage with human/social aspects of technology, and HCI in order to tackle problems such as terminal disability and aging society with technology usage.  
 
-He also runs several study groups with freelancers, software engineers, and postgraduate students to learn more deeply about `machine learning` (especially for reinforcement learning), and `web development` (Golang, React, Relay, TDD, DDD, modern programming paradigms). He is going to work for **[Mercari Inc.](https://about.mercari.com/)**, *which is the first in Japan to reach “unicorn” status* , as a **Software Engineer (Backend: Golang, Microservices)** from April 2019.
+He also runs several study groups with freelancers, software engineers, and postgraduate students to learn more deeply about `machine learning` (especially for reinforcement learning), and `web development` (Golang, React, Relay, TDD, DDD, modern programming paradigms). He is going to work for [Mercari Inc.](https://about.mercari.com/), *which is the first in Japan to reach “unicorn” status* , as a **Software Engineer (Backend: Golang, Microservices)** from April 2019.
 
 **Favourite quotes:**
 
@@ -20,6 +20,6 @@ He also runs several study groups with freelancers, software engineers, and post
 * Computer science inverts the normal. In normal science, you're given a world, and your job is to find out the rules. In computer science, you give the computer the rules, and it creates the world. - **Alan Kay**  
 * People who are more than casually interested in computers should have at least some idea of what the underlying hardware is like. Otherwise the programs they write will be pretty weird. -**Donald Knuth**  
 
-### Contact Me
+# How to contact
 
-Please contact me via [LinkedIn](https://www.linkedin.com/in/junhahn/)
+Please contact me via icons below. `Email`, `LinkedIn` DM, or `Twitter DM`. Short introduction of yourself with basic information *(reason to contact, topics to discuss, etc.)* will be helpful for better communication. Thank you.
