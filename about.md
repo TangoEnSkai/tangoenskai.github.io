@@ -22,4 +22,4 @@ He also runs several study groups with freelancers, software engineers, and post
 
 # How to contact
 
-Please contact me via icons below. `Email`, `LinkedIn` DM, or `Twitter DM`. Short introduction of yourself with basic information *(reason to contact, topics to discuss, etc.)* will be helpful for better communication. Thank you.
+Please contact me via icons below. `Email`, `LinkedIn` DM, or `Twitter` DM. Short introduction of yourself with basic information *(reason to contact, topics to discuss, etc.)* will be helpful for better communication. Thank you.
