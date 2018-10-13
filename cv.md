@@ -4,21 +4,28 @@ title: CV
 permalink: /cv/
 ---
 
-## CURRENT POSITION(S)
+# CURRENT POSITION(S)
 
-### Master’s Student at Tokyo Institute of Technology
+## Master’s Student at Tokyo Institute of Technology
+
 **Apr. 2017 to present**  
 Global Engineering for Development, Environment and Society,  
 Department of Transdisciplinary Science and Engeering,  
 School of Environment and Society  
 
-### Communication Ambassador at ACM SIGCHI
+## Communication Ambassador at ACM SIGCHI
+
 **Mar. 2017 to present**  
 Being a SIGCHI Communication Ambassador is an exclusive opportunity for students, researcher and professionals active in the field of Human-Computer Interaction (HCI) around the world to spread the word about SIGCHI’s mission and members’ activities across the globe.
 
+## Incoming Mercari Inc. Software Engineer
+
+**Starting Apr. 2019**  
+Accepted a job offer from [Mercari Inc.](https://about.mercari.com/), _which is the first in Japan to reach “unicorn” status_ , as a **Software Engineer** (Backend: Golang, Microservices).  
+
 ---
 
-## EDUCATION
+# EDUCATION
 
 **Tokyo Institute of Technology, Tokyo, Japan**  
 **Master of Science/Engineering**  
@@ -34,16 +41,15 @@ _Tokyo Institute of Technology_
 Mar. 2009 to Oct. 2016 **(GPA: 91.1%)**  
 Advancded Computer Science and Engineering Course  
 by Accreditation Board for Engineering Education of Korea  
-* _Leave of Absence_
-  + _Feb. 2011 to Dec. 2012: Study Abroad – B.C., Canada_ 
-  + _Jan. 2012 to Feb. 2012: Study Abroad – Ishikawa, Japan_ 
-  + _Mar. 2013 to Mar. 2015: Military Service_
 
+* _Leave of Absence_
+  * _Feb. 2011 to Dec. 2012: Study Abroad – B.C., Canada_
+  * _Jan. 2012 to Feb. 2012: Study Abroad – Ishikawa, Japan_
+  * _Mar. 2013 to Mar. 2015: Military Service_
 
 ---
 
-
-## EXPERIENCE
+# EXPERIENCE
 
 **Communication Ambassador**  
 _ACM SIGCHI_  
@@ -54,21 +60,22 @@ Being a SIGCHI Communication Ambassador is an exclusive opportunity for students
 _Eventacular_, Tokyo, Japan  
 Mar. 2018 to Jul. 2018  
 Backend and Frontend Software Development  
+
 * Responsibilities:
-  + Development of a web service frontend using React.js and Relay
-  + Development of a web service backend using Phoenix (a Rails-like web framework written Elixir) and GraphQL
-  + Writing tests for the frontend and backend
-  + Use of Docker containers for development and deployment
-  + Writing automation tasks for continuous integration and continuous deployment
-  + Documenting code
-  + Version control using Git
-  + Use of tools such as Pivotal Tracker, Slack, Github, and Circle CI
-  + Following an agile development process including test-driven development, pair programming, and continuous releases
+  * Development of a web service frontend using React.js and Relay
+  * Development of a web service backend using Phoenix (a Rails-like web framework written Elixir) and GraphQL
+  * Writing tests for the frontend and backend
+  * Use of Docker containers for development and deployment
+  * Writing automation tasks for continuous integration and continuous deployment
+  * Documenting code
+  * Version control using Git
+  * Use of tools such as Pivotal Tracker, Slack, Github, and Circle CI
+  * Following an agile development process including test-driven development, pair programming, and continuous releases
 
 **Intern**  
 _Inferret_, Tokyo, Japan  
 Feb. 2018 to Apr. 2018  
-Research Project (Classified) 
+Research Project (Classified)  
 
 **Teaching Assistant**  
 _Tokyo Institute of Technology_, Tokyo, Japan  
@@ -89,7 +96,7 @@ TSE.C203 “Social Design Project”
 **Teaching Assistant**  
 _Dongguk University_, Seoul, Republic of Korea   
 Mar. 2016 to Jun. 2016  
-TA for a compulsory undergraduate course, Software in the future society [RGC 1040-02], for new student at the university. Roles were evaluating students’ assignment, reports and exams as well as answering their questions.
+TA for a compulsory undergraduate course, Software in the future society [RGC 1040-02], for new student at the university. Roles were evaluating students’ assignment, reports and exams as well as answering their questions.  
 
 **Public Officer**  
 _Sangju City Hall_, Gyeongsangbuk-do, Republic of Korea  
@@ -106,11 +113,9 @@ _Dongguk University_, Seoul, Republic of Korea
 May. 2010 to Jan. 2011  
 Worked as an administration assistant at Visual Simulation Lab.  
 
-
 ---
 
-
-## WORKSHOPS & EVENTS
+# WORKSHOPS & EVENTS
 
 **Technology and Product in Context**  
 _CSM, University of the Arts London_  @Tokyo Tech  
@@ -125,9 +130,7 @@ Nov 2017
 _d.school, Stanford University_ @Tokyo Tech  
 Mar 2017  
 
-
 ---
-
 
 ## HONOURS AND AWARDS  
 
@@ -151,11 +154,9 @@ Dec. 2012
 _Jeonggakwon_, Dongguk University, Seoul  
 Jun. 2012  
 
-
 ---
 
-
-## SCHOLARSHIPS
+# SCHOLARSHIPS
 
 **Half Tuition Fees: 1st Quarter and 2nd Quarter (Spring, 2018)**  
 _Tokyo Institute of Technology_, Tokyo, Japan  
@@ -185,67 +186,58 @@ Jun. 2012
 _Ishikawa Foundation for International Exchange_, Ishikawa, Japan  
 Feb. 2012  
 
-
 ---
 
+# PUBLICATIONS
 
-## PUBLICATIONS
+## 2018
 
-### 2018
+**J. Hahn** and F. Takahashi. 2018. Universal Design for Bins with Psychological Analysis of People's Preference. _In proceeding of the 10th Asia-Pacific Landfill Symposium (APLAS Tokyo 2018)_, Tokyo, Japan  
 
-**J. Hahn** and F. Takahashi. 2018. Universal Design for Bins with Psychological Analysis of People's Preference. _In proceeding of the 10th Asia-Pacific Landfill Symposium (APLAS Tokyo 2018)_, Tokyo, Japan
+**J. Hahn** and F. Takahashi. 2018. Potential Universal Design of Bins for Visually Impaired People and Their Psychological Preference Analysis. _In proceeding of the 29th Annual Conference of Japan Society of Material Cycles and Waste Management (JSMCWM2018)_, Nagoya, Japan  
 
-**J. Hahn** and F. Takahashi. 2018. Potential Universal Design of Bins for Visually Impaired People and Their Psychological Preference Analysis. _In proceeding of the 29th Annual Conference of Japan Society of Material Cycles and Waste Management (JSMCWM2018)_, Nagoya, Japan
+**J. Hahn**. 2018. The Importance of Transdisciplinary Research for Potential Universal Design of Bins. _In proceeding of the Tenth Multidisciplinary International Student Workshop (MISW2018)_, Asia Oceania Top University League on Engineering (AOTULE), Tokyo, Japan  
 
-**J. Hahn**. 2018. The Importance of Transdisciplinary Research for Potential Universal Design of Bins. _In proceeding of the Tenth Multidisciplinary International Student Workshop (MISW2018)_, Asia Oceania Top University League on Engineering (AOTULE), Tokyo, Japan
-
-**J. HAN** and T. Hope. 2018. Pair Matching: Transdisciplinary Study for Introducing Computational Intelligence to Guide Dog Associations. _In Proceedings of the 23rd international conference on Intelligent user interfaces (IUI ’18)_. ACM, Tokyo, Japan
+**J. HAN** and T. Hope. 2018. Pair Matching: Transdisciplinary Study for Introducing Computational Intelligence to Guide Dog Associations. _In Proceedings of the 23rd international conference on Intelligent user interfaces (IUI ’18)_. ACM, Tokyo, Japan  
 
 ### 2015
 
-**J. HAN**, et al., 2015. An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module. _Winter Annual Korean Institute of Information Scientists and Engineers (KIISE) symposium 2015_, Pyeongchang, Republic of Korea, pp.1473~1475
-
+**J. HAN**, et al., 2015. An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module. _Winter Annual Korean Institute of Information Scientists and Engineers (KIISE) symposium 2015_, Pyeongchang, Republic of Korea, pp.1473~1475  
 
 ---
 
+# PRESENTATIONS
 
-## PRESENTATIONS
+## 2018
 
-### 2018 
+**J. Hahn**. 2018. Universal Design for Bins with Psychological Analysis of People's Preference. _In proceeding of the 10th Asia-Pacific Landfill Symposium (APLAS Tokyo 2018)_, Tokyo, Japan  
 
-**J. Hahn**. 2018. Universal Design for Bins with Psychological Analysis of People's Preference. _In proceeding of the 10th Asia-Pacific Landfill Symposium (APLAS Tokyo 2018)_, Tokyo, Japan
+**J. Hahn**. 2018. Potential Universal Design of Bins for Visually Impaired People and Their Psychological Preference Analysis. _In proceeding of the 29th Annual Conference of Japan Society of Material Cycles and Waste Management (JSMCWM2018)_, Nagoya, Japan  
 
-**J. Hahn**. 2018. Potential Universal Design of Bins for Visually Impaired People and Their Psychological Preference Analysis. _In proceeding of the 29th Annual Conference of Japan Society of Material Cycles and Waste Management (JSMCWM2018)_, Nagoya, Japan
+**J. Hahn**. 2018. The Importance of Transdisciplinary Research for Potential Universal Design of Bins. _In proceeding of the Tenth Multidisciplinary International Student Workshop (MISW2018)_, Asia Oceania Top University League on Engineering (AOTULE), Tokyo, Japan  
 
-**J. Hahn**. 2018. The Importance of Transdisciplinary Research for Potential Universal Design of Bins. _In proceeding of the Tenth Multidisciplinary International Student Workshop (MISW2018)_, Asia Oceania Top University League on Engineering (AOTULE), Tokyo, Japan
+**J. HAN**. 2018. Pair Matching: Transdisciplinary Study for Introducing Computational Intelligence to Guide Dog Associations. _In Proceedings of the 23rd international conference on Intelligent user interfaces (IUI ’18)_. ACM, Tokyo, Japan  
 
-**J. HAN**. 2018. Pair Matching: Transdisciplinary Study for Introducing Computational Intelligence to Guide Dog Associations. _In Proceedings of the 23rd international conference on Intelligent user interfaces (IUI ’18)_. ACM, Tokyo, Japan
-
-### 2015
+## 2015
 
 **J. HAN**, et al., 2015. An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module. _In KIISE(Korean Institute of Information Scientists and Engineers) winter symposium 2015_, KIISE Pyeongchang, Republic of Korea
 
-
 ---
 
+# PATENTS
 
-## PATENTS
-
-### Patent Registered and Issued
+## Patent Registered and Issued
 
 **26th Jan 2016**  
-Patent Application Number:10-2016-0006783, Korean Intellectual Property Office, “Unmanned Aerial Vehicle for improving landing accuracy and station comprising rotational linear slide rail”, **J. HAN**, K. W. LEE, J. S. KIM, J. H. KIM, J. H. YANG
+Patent Application Number:10-2016-0006783, Korean Intellectual Property Office, “Unmanned Aerial Vehicle for improving landing accuracy and station comprising rotational linear slide rail”, **J. HAN**, K. W. LEE, J. S. KIM, J. H. KIM, J. H. YANG  
 
-### Filed Patent Application, Patent Pending
+## Filed Patent Application, Patent Pending
 
 **31st Dec 2016**  
-Patent Application Number: 10-2015-0191604, Korean Intellectual Property Office, “Method for improving landing accuracy of Unmanned Aerial Vehicle and apparatus thereof”, J. HAN, K. W. LEE, J. S. KIM, J. H. KIM, J. H. YANG
-
-
+Patent Application Number: 10-2015-0191604, Korean Intellectual Property Office, “Method for improving landing accuracy of Unmanned Aerial Vehicle and apparatus thereof”, J. HAN, K. W. LEE, J. S. KIM, J. H. KIM, J. H. YANG  
 ---
 
-
-## CERTIFICATIONS AND LICENSURE
+# CERTIFICATIONS AND LICENSURE
 
 **level 4, Intellectual Property Ability Test**  
 _Korea Invention Promotion Association_  
@@ -259,33 +251,33 @@ Nov. 2015
 _Human Resources Development Service of Korea_  
 Nov. 2014  
 
-
 ---
 
+# SKILLS
 
-## SKILLS
+## Programming Languages
 
-### Programming Languages
+* **Advanced**:
+  * C/C++ (Compiler Construction)  
+* **Moderate**:
+  * Golang (gRPC, microservices), C#, Python (Tensorflow), Java (JUnit), Javascript (React, GraphQL, Flow, Jest, Enzyme, Puppeteer),  
+* **Novice**: 
+  * Elixir (Phoenix, Ecto, Absinthe, GraphQL, OTP), Erlang, OCaml, Assembly Language, Prolog, Lisp  
 
-* **Advanced**: C/C++ (Compiler Construction)  
-* **Moderate**: C#, Python (Tensorflow), Java (JUnit), Javascript (React, GraphQL, Flow, Jest, Enzyme, Puppeteer), Elixir (Phoenix, Ecto, Absinthe, GraphQL, OTP)
-* **Novice**: Erlang, OCaml, Assembly Language, Prolog, Lisp  
-
-### Software Tools Skills
+## Software Tools Skills
 
 Git, Github, Slack, PivotalTracker  
 Microsoft Excel for numerical mathematics/analysis, statistical calculation  
 
-### Language Skills
+## Language Skills
 
 * Korean: Native Language  
 * English: Fluent (speaking, reading, writing)  
 * Japanese: Intermediate-high (speaking), intermediate (reading, writing)  
 
-
 ---
 
+# Note
 
-## Note
-
-Name Spelling Change in English since Mar 4th 2018 `(Previous: June Han)`
+* currently not opening for a job offer.
+* Name Spelling Change in English since Mar 4th 2018 `(Previous: June Han)`
