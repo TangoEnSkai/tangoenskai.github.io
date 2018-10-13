@@ -22,7 +22,7 @@ Being a SIGCHI Communication Ambassador is an exclusive opportunity for students
 
 **Tokyo Institute of Technology, Tokyo, Japan**  
 **Master of Science/Engineering**  
-Apr. 2017 to `Mar. 2019(expected)` **(GPA: 94.1/100)**  
+Apr. 2017 to `Mar. 2019(expected)` **(GPA: 95.6/100)**  
 _Research Topics: Psychometrics, Universial Design, User-Centred Design_  
 Graduate Major in Global Engineering for Development, Environment and Society,  
 Department of Transdisciplinary Science and Engineering,  
