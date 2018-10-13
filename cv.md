@@ -13,11 +13,6 @@ Global Engineering for Development, Environment and Society,
 Department of Transdisciplinary Science and Engeering,  
 School of Environment and Society  
 
-## Communication Ambassador at ACM SIGCHI
-
-**Mar. 2017 to present**  
-Being a SIGCHI Communication Ambassador is an exclusive opportunity for students, researcher and professionals active in the field of Human-Computer Interaction (HCI) around the world to spread the word about SIGCHI’s mission and members’ activities across the globe.
-
 ## Incoming Mercari Inc. Software Engineer
 
 **Starting Apr. 2019**  
@@ -53,7 +48,7 @@ by Accreditation Board for Engineering Education of Korea
 
 **Communication Ambassador**  
 _ACM SIGCHI_  
-Mar. 2017 to present  
+Mar. 2017 to Jul. 2018  
 Being a SIGCHI Communication Ambassador is an exclusive opportunity for students, researcher and professionals active in the field of Human-Computer Interaction (HCI) around the world to spread the word about SIGCHI’s mission and members’ activities across the globe.
 
 **Software Engineering Intern**  
