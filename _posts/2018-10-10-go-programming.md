@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Start translation for a famous Golang Udemy course
+title: Started translation for a Golang Udemy course
 ---
 
-I started working as a contributor (translation Eng-Kor) for **Google's Go (golang) Programming Language**, a Udemy course by Todd McLeod.
+I started working as a contributor (translation Eng-Kor) for **Google's Go (golang) Programming Language**, a Udemy course by Todd McLeod. Todd kindly accepted my suggestion to translate his contents in Korean and accepted my very first Pull Request.
 
 The Github repository that I am working on is [GoesToEleven/go-programming](https://github.com/GoesToEleven/go-programming), espeically for English to Korean translation work.  
 
