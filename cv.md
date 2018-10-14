@@ -274,5 +274,5 @@ Microsoft Excel for numerical mathematics/analysis, statistical calculation
 
 # Note
 
-* currently not opening for a job offer.
+* currently not opening for a job offer.  
 * Name Spelling Change in English since Mar 4th 2018 `(Previous: June Han)`
