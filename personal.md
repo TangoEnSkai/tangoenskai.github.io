@@ -20,6 +20,7 @@ permalink: /personal/
 * Guitars
   * Fender American Vintage ReIssue 52 Telecaster
   * Fender Made in Japan Hybrid 52s Telecaster
+  * Epiphone EJ-200CE Natural Colour
 
 * Stompboxes
   * Dazatronyx - Class A Germanium Amplifier
