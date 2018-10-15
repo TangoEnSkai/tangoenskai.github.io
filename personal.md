@@ -26,7 +26,7 @@ permalink: /personal/
   * Dazatronyx - Class A Germanium Amplifier
   * Klinger Custom Pedals - Supa Fuzz (Specially built for me)
   * Klinger Custom Pedals - Tone Bender MK I (Limited Edition, 2018)
-  * Boss - DM-2w Delay  
+  * Boss - DM-2w Delay
 
 * Amps
   * Hughes & Kettner - Triamp MK 3 (Head)
@@ -37,9 +37,7 @@ permalink: /personal/
 # Fountain Pens
 
 * Nakaya
-  * Portable Cigar Heki-tamenuri（碧溜）14K Gold Two-Tone (Gold/rhodium) Specially Tuned M nib
-* Platinum
-  * Century #3776 Chartres Blue 14K Gold B nib
+  * Portable Cigar Heki-tamenuri（碧溜）14K Gold Two-Tone (Gold/rhodium) Specially Tuned M nib  
 * Namiki
   * Yukari Royale Urushi Vermillion Red Urushi 18K Gold B nib
 * Pilot
