@@ -26,8 +26,7 @@ permalink: /personal/
   * Dazatronyx - Class A Germanium Amplifier
   * Klinger Custom Pedals - Supa Fuzz (Specially built for me)
   * Klinger Custom Pedals - Tone Bender MK I (Limited Edition, 2018)
-  * Boss - DM-2w Delay
-  * Electro-Harmonix - Small Stone ('90s, '00s versions)
+  * Boss - DM-2w Delay  
 
 * Amps
   * Hughes & Kettner - Triamp MK 3 (Head)
