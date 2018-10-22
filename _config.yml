@@ -87,3 +87,6 @@ exclude:
 
   #Timezone setting
   timezone: UTC+9
+
+  #Future updatiing
+  future: true
