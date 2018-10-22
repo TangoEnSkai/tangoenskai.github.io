@@ -84,3 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+  #Timezone setting
+  timezone: UTC+9
