@@ -8,9 +8,7 @@ permalink: /about/
 
 He is interested in **Psychometrics**, **Universal Design**, and **Interaction Design** to explore visual impairment and human-centred technology with multidisciplinary research methods. In detail, he is working on a Universal Design project to create informative recycling bins by employing [pairwise comparison](https://en.wikipedia.org/wiki/Pairwise_comparison) and [Scheffé's method](https://en.wikipedia.org/wiki/Scheffé%27s_method) with quantitatve surveys.  
 
-As he has **computer science** background, he also runs study groups with freelancers, software engineers, and postgraduate students to learn about `machine learning` (especially for reinforcement learning), and `web development` (Golang, React/Relay, TDD/DDD, gRPC/Microservices). 
-
-[//]: # "He is going to work as a **Software Engineer (Backend: Golang, Microservices)** from April 2019 at [Mercari Inc.](https://about.mercari.com/), which is the first in Japan to reach “unicorn” status."
+As he has **computer science** background, he also runs study groups with freelancers, software engineers, and postgraduate students to learn about `machine learning` (especially for reinforcement learning), and `web development` (Golang, React/Relay, TDD/DDD, gRPC/Microservices). He is going to work as a *Software Engineer (Backend: Golang, Microservices)* from April 2019 at [Mercari Inc.](https://about.mercari.com/), which is the first in Japan to reach “unicorn” status."
 
 **Favourite quotes:**
 
