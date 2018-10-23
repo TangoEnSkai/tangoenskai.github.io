@@ -225,8 +225,9 @@ Patent Application Number:10-2016-0006783, Korean Intellectual Property Office, 
 
 ## Filed Patent Application, Patent Pending
 
-**31st Dec 2016**  
+**31st Dec 2016**
 Patent Application Number: 10-2015-0191604, Korean Intellectual Property Office, “Method for improving landing accuracy of Unmanned Aerial Vehicle and apparatus thereof”, J. HAN, K. W. LEE, J. S. KIM, J. H. KIM, J. H. YANG  
+
 ---
 
 # CERTIFICATIONS AND LICENSURE
