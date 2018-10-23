@@ -78,15 +78,9 @@ gems:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
-exclude: 
+exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME
-
-  #Timezone setting
-  timezone: UTC+9
-
-  #Future updatiing
-  future: true
