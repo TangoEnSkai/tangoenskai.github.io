@@ -204,6 +204,8 @@ Feb. 2012
 
 **J. Hahn**. 2018. Universal Design for Bins with Psychological Analysis of People's Preference. _In proceeding of the 10th Asia-Pacific Landfill Symposium (APLAS Tokyo 2018)_, Tokyo, Japan  
 
+**J. Hahn**. 2018. Universal Design of PET Bottle Bins for People with Low Vision and Analysis of People’s Psychological Preference on Each Prototype Using Pairwise Comparison Methods. _In proceeding of the 2018 Korea-China-Japan Joint Symposium_, Asan, Republic of Korea  
+
 **J. Hahn**. 2018. Potential Universal Design of Bins for Visually Impaired People and Their Psychological Preference Analysis. _In proceeding of the 29th Annual Conference of Japan Society of Material Cycles and Waste Management (JSMCWM2018)_, Nagoya, Japan  
 
 **J. Hahn**. 2018. The Importance of Transdisciplinary Research for Potential Universal Design of Bins. _In proceeding of the Tenth Multidisciplinary International Student Workshop (MISW2018)_, Asia Oceania Top University League on Engineering (AOTULE), Tokyo, Japan  
