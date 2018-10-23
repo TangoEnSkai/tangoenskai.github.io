@@ -13,11 +13,6 @@ Global Engineering for Development, Environment and Society,
 Department of Transdisciplinary Science and Engeering,  
 School of Environment and Society  
 
-## Incoming Mercari Inc. Software Engineer
-
-**Starting from 1st Apr., 2019**  
-Accepted a job offer from [Mercari Inc.](https://about.mercari.com/), _which is the first in Japan to reach “unicorn” status_ , as a **Software Engineer** (Backend: Golang, Microservices).  
-
 ---
 
 # EDUCATION
