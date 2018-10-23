@@ -184,6 +184,8 @@ Feb. 2012
 
 **J. Hahn** and F. Takahashi. 2018. Universal Design for Bins with Psychological Analysis of People's Preference. _In proceeding of the 10th Asia-Pacific Landfill Symposium (APLAS Tokyo 2018)_, Tokyo, Japan  
 
+**J. Hahn** et al.. 2018. Universal Design for Bins with Psychological Analysis of People's Preference. _In proceeding of the 10th Asia-Pacific Landfill Symposium (APLAS Tokyo 2018)_, Tokyo, Japan  
+
 **J. Hahn** and F. Takahashi. 2018. Potential Universal Design of Bins for Visually Impaired People and Their Psychological Preference Analysis. _In proceeding of the 29th Annual Conference of Japan Society of Material Cycles and Waste Management (JSMCWM2018)_, Nagoya, Japan  
 
 **J. Hahn**. 2018. The Importance of Transdisciplinary Research for Potential Universal Design of Bins. _In proceeding of the Tenth Multidisciplinary International Student Workshop (MISW2018)_, Asia Oceania Top University League on Engineering (AOTULE), Tokyo, Japan  
@@ -192,7 +194,7 @@ Feb. 2012
 
 ### 2015
 
-**J. HAN**, et al., 2015. An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module. _Winter Annual Korean Institute of Information Scientists and Engineers (KIISE) symposium 2015_, Pyeongchang, Republic of Korea, pp.1473~1475  
+**J. HAN** et al.. 2015. An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module. _Winter Annual Korean Institute of Information Scientists and Engineers (KIISE) symposium 2015_, Pyeongchang, Republic of Korea, pp.1473~1475  
 
 ---
 
@@ -210,7 +212,7 @@ Feb. 2012
 
 ## 2015
 
-**J. HAN**, et al., 2015. An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module. _In KIISE(Korean Institute of Information Scientists and Engineers) winter symposium 2015_, KIISE Pyeongchang, Republic of Korea
+**J. HAN** et al.. 2015. An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module. _In KIISE(Korean Institute of Information Scientists and Engineers) winter symposium 2015_, KIISE Pyeongchang, Republic of Korea
 
 ---
 
