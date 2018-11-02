@@ -8,7 +8,7 @@ permalink: /cv/
 
 ## Master’s Student at Tokyo Institute of Technology
 
-**Apr. 2017 to present**  
+**Master of Engineering**: `Expected Mar. 2019`  
 Global Engineering for Development, Environment and Society,  
 Department of Transdisciplinary Science and Engeering,  
 School of Environment and Society  
@@ -18,7 +18,7 @@ School of Environment and Society
 # EDUCATION
 
 **Tokyo Institute of Technology, Tokyo, Japan**  
-**Master of Science/Engineering**  
+**Master of Engineering**  
 Apr. 2017 to `Mar. 2019(expected)` **(GPA: 95.6/100)**  
 _Research Topics: Psychometrics, Universial Design, User-Centred Design_  
 Graduate Major in Global Engineering for Development, Environment and Society,  
