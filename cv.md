@@ -11,7 +11,8 @@ permalink: /cv/
 **Master of Engineering**: `Expected Mar. 2019`  
 Global Engineering for Development, Environment and Society,  
 Department of Transdisciplinary Science and Engeering,  
-School of Environment and Society  
+School of Environment and Society,  
+_Tokyo Institute of Technology_  
 
 ---
 
