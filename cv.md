@@ -66,7 +66,7 @@ Backend and Frontend Software Development
 **Intern**  
 _Inferret_, Tokyo, Japan  
 Feb. 2018 to Apr. 2018  
-Research Project (Classified)  
+Research Project (Classified by NDA)  
 
 **Teaching Assistant**  
 _Tokyo Institute of Technology_, Tokyo, Japan  
