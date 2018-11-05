@@ -21,7 +21,7 @@ _Tokyo Institute of Technology_
 **Tokyo Institute of Technology, Tokyo, Japan**  
 **Master of Engineering**  
 Apr. 2017 to `Mar. 2019(expected)` **(GPA: 95.6/100)**  
-_Research Topics: Psychometrics, Universial Design, User-Centred Design_  
+_Research Topics: Psychometrics, Universial Design, User-Centred Design, Visual Impairment_  
 Graduate Major in Global Engineering for Development, Environment and Society,  
 Department of Transdisciplinary Science and Engineering,  
 School of Environment and Society,  
