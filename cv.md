@@ -120,7 +120,7 @@ Nov 2017
 **Design Thnking Workshop**  
 _d.school, Stanford University_ @Tokyo Tech  
 Mar 2017  
-[d.school, Stanford University Workshop at Tokyo Tech](https://www.titech.ac.jp/english/event/2017/037284.html) by T. Both, S. Witthoft, and D. Janka, MD. from `d.school`.
+[d.school, Stanford University Workshop at Tokyo Tech](https://www.titech.ac.jp/english/event/2017/037284.html) by T. Both, S. Witthoft, and D. Janka, MD. from `d.school`.  
 
 ---
 
