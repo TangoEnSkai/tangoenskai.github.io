@@ -111,16 +111,17 @@ Worked as an administration assistant at Visual Simulation Lab.
 **Technology and Product in Context**  
 _CSM, University of the Arts London_  @Tokyo Tech  
 Feb 2018  
+by Dr. Ulrike Oberlack from _CSM_ and prof. Kayoko Nohara from _TokyoTech_.  
 
-**Designing Wearable lights**  
+**Designing Wearable Lights**  
 _CSM, University of the Arts London_  @Tokyo Tech  
 Nov 2017  
-[CSM x TokyoTech](http://blogs.arts.ac.uk/csm/2017/10/17/tokyo-second/#)  
+[CSM x TokyoTech](http://blogs.arts.ac.uk/csm/2017/10/17/tokyo-second/#) by Dr. Betti Marenko from _CSM_ and prof. Kayoko Nohara from _TokyoTech_.  
 
 **Design Thnking Workshop**  
 _d.school, Stanford University_ @Tokyo Tech  
 Mar 2017  
-[d.school, Stanford University Workshop at Tokyo Tech](https://www.titech.ac.jp/english/event/2017/037284.html) by T. Both, S. Witthoft, and D. Janka, MD. from `d.school`.  
+[d.school, Stanford University Workshop at Tokyo Tech](https://www.titech.ac.jp/english/event/2017/037284.html) by T. Both, S. Witthoft, and D. Janka, MD. from _d.school_.  
 
 ---
 
