@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-**Jun Hahn**  is a master’s student at `the Department of Transdisciplinary Science and Engineering, Tokyo Institute of Technology, Tokyo, Japan`. He received a bachelor’s degree in **computer science and engineering** `Dongguk University, Seoul, Republic of Korea`.  
+**Jun Hahn**  is a master’s student at `Department of Transdisciplinary Science and Engineering, Tokyo Institute of Technology, Tokyo, Japan`. He received a bachelor of science (BSc) in **computer science and engineering** `Dongguk University, Seoul, Republic of Korea`.  
 
-He research topic is about **Psychometrics**, **Universal Design**, and **Interaction Design** to explore visual impairment and human-centred technology with multidisciplinary research methods. In detail, he is working on a Universal Design project to create informative recycling bins by employing [pairwise comparison](https://en.wikipedia.org/wiki/Pairwise_comparison) and [Scheffé's method](https://en.wikipedia.org/wiki/Scheffé%27s_method) with quantitatve surveys.  
+He current research topic is about **Psychometrics**, **Universal Design**, and **Interaction Design** to explore visual impairment and human-centred technology with multidisciplinary research methods. In detail, he is working on a Universal Design project to create informative recycling bins by employing [pairwise comparison](https://en.wikipedia.org/wiki/Pairwise_comparison) and [Scheffé's method](https://en.wikipedia.org/wiki/Scheffé%27s_method) with quantitatve surveys.  
 
 As he has **computer science** background, he also runs study groups with freelancers, software engineers, and postgraduate students to learn about `machine learning` (especially for reinforcement learning), and `web development` (Golang, React/Relay, TDD/DDD, gRPC/Microservices). He is going to work as a *Software Engineer (Backend: Golang, Microservices)* from April 2019 at *Mercari Inc.*, which is the first in Japan to reach “unicorn” status.
 
