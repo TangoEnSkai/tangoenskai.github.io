@@ -66,7 +66,7 @@ Backend and Frontend Software Development
 **Intern**  
 _Inferret_, Tokyo, Japan  
 Feb. 2018 to Apr. 2018  
-Research Project (Classified by NDA)  
+Research Project Intern
 
 **Teaching Assistant**  
 _Tokyo Institute of Technology_, Tokyo, Japan  
@@ -164,7 +164,7 @@ _Tokyo Institute of Technology_, Tokyo, Japan
 Apr. 2017 to Aug. 2017  
 
 **Monbukagakusho Honors Scholarship**  
-_Japanese Student Service Organization_, Japan  
+_Japanese Student Service Organization (JASSO)_, Japan  
 Apr. 2017 to Mar. 2018  
 
 **Teaching Assistant Scholarship**  
@@ -183,6 +183,8 @@ Feb. 2012
 
 # PUBLICATIONS
 
+1st Author Paper only
+
 ## 2018
 
 **J. Hahn** and F. Takahashi. 2018. Universal Design for Bins with Psychological Analysis of People's Preference. _In proceeding of the 10th Asia-Pacific Landfill Symposium (APLAS Tokyo 2018)_, Tokyo, Japan  
@@ -193,7 +195,7 @@ Feb. 2012
 
 **J. Hahn**. 2018. The Importance of Transdisciplinary Research for Potential Universal Design of Bins. _In proceeding of the Tenth Multidisciplinary International Student Workshop (MISW2018)_, Asia Oceania Top University League on Engineering (AOTULE), Tokyo, Japan  
 
-**J. HAN** and T. Hope. 2018. Pair Matching: Transdisciplinary Study for Introducing Computational Intelligence to Guide Dog Associations. _In Proceedings of the 23rd international conference on Intelligent user interfaces (IUI ’18)_. ACM, Tokyo, Japan  
+**J. Han** and T. Hope. 2018. Pair Matching: Transdisciplinary Study for Introducing Computational Intelligence to Guide Dog Associations. _In Proceedings of the 23rd international conference on Intelligent user interfaces (IUI ’18)_. ACM, Tokyo, Japan  
 
 ### 2015
 
