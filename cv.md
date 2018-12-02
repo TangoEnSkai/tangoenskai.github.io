@@ -257,7 +257,7 @@ Nov. 2014
 
 **Programming for Everybody (Getting Started with Python)**  
 _University of Michigan_  
-Dec, 2018  
+Dec, 2016  
 
 ---
 
