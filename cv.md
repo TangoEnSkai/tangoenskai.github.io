@@ -255,9 +255,13 @@ Nov. 2014
 
 # SERTIFICATIONS BY E-LEARNINGS
 
+**Introduction to HTML5**  
+_University of Michigan_  
+Dec. 2017  
+
 **Programming for Everybody (Getting Started with Python)**  
 _University of Michigan_  
-Dec, 2016  
+Dec. 2016  
 
 ---
 
