@@ -255,6 +255,10 @@ Nov. 2014
 
 # SERTIFICATIONS BY E-LEARNINGS
 
+**Introduction to Gypsy Jazz Guitar**  
+_Udemy_  
+Dec. 2018  
+
 **Introduction to HTML5**  
 _University of Michigan_  
 Dec. 2017  
