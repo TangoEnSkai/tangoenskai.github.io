@@ -253,6 +253,14 @@ Nov. 2014
 
 ---
 
+# SERTIFICATIONS BY E-LEARNINGS
+
+**Programming for Everybody (Getting Started with Python)**  
+_University of Michigan_  
+Dec, 2018  
+
+---
+
 # SKILLS
 
 ## Programming Languages
