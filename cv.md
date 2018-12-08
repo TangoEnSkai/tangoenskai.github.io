@@ -151,19 +151,19 @@ Jun. 2012
 
 # SCHOLARSHIPS
 
-**Half Tuition Fees: 3rd Quarter and 4th Quarter (Fall, 2018)**  
+**Half Tuition Fees: 3rd Quarter and 4th Quarter (FY2018, Fall)**  
 _Tokyo Institute of Technology_, Tokyo, Japan  
 Sep. 2018 to Feb. 2019  
 
-**Half Tuition Fees: 1st Quarter and 2nd Quarter (Spring, 2018)**  
+**Half Tuition Fees: 1st Quarter and 2nd Quarter (FY2018, Spring)**  
 _Tokyo Institute of Technology_, Tokyo, Japan  
 Apr. 2018 to Aug. 2018  
 
-**Half Tuition Fees: 3rd Quarter and 4th Quarter (Fall, 2017)**  
+**Half Tuition Fees: 3rd Quarter and 4th Quarter (FY2017, Fall)**  
 _Tokyo Institute of Technology_, Tokyo, Japan  
 Sep. 2017 to Feb. 2018  
 
-**Full Tuition Fees: 1st Quarter and 2nd Quarter (Spring, 2017)**  
+**Full Tuition Fees: 1st Quarter and 2nd Quarter (FY2017, Spring)**  
 _Tokyo Institute of Technology_, Tokyo, Japan  
 Apr. 2017 to Aug. 2017  
 
