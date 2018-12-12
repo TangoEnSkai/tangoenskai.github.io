@@ -3,7 +3,13 @@ layout: post
 title: Hello World!
 ---
 
-Hi, There? I am **Jun**, a master’s student at **Department of Transdisciplinary Science and Engineering, School of Environment and Society, [Tokyo Institute of Technology](https://www.titech.ac.jp/)** and communication ambassador of **[ACM SIGCHI](https://sigchi.org/people/volunteer-spotlight/)**.  
+Hi, There? I am **Jun**, a master’s student at Department of Transdisciplinary Science and Engineering, School of Environment and Society, [Tokyo Institute of Technology](https://www.titech.ac.jp/). communication ambassador of [ACM SIGCHI](https://sigchi.org/people/volunteer-spotlight/).  
+
+_Cheers,_  
+_Jun_  
+
+_June, 2018_  
+_Tokyo, Japan_  
 
 **Favourite quotes:**
 
