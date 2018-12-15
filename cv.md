@@ -30,7 +30,7 @@ _Tokyo Institute of Technology_
 **Dongguk University, Seoul, Republic of Korea**  
 **Bachelor of Science in Computer Science and Engineering (Advanced Course**  
 Mar. 2009 to Oct. 2016 **(GPA: 3.71)**  
-Advancded Computer Science and Engineering Course  
+Advanced Computer Science and Engineering Course  
 by Accreditation Board for Engineering Education of Korea  
 
 * _Leave of Absence_
