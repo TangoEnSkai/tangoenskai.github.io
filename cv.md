@@ -292,12 +292,12 @@ Microsoft Excel for numerical mathematics/analysis, statistical calculation
 ## Language Skills
 
 * Korean: Native Language  
-* English: Fluent (speaking, reading, writing)  
-* Japanese: Intermediate-high (speaking), intermediate (reading, writing)  
+* English: Fluent Level
+* Japanese: Business Level (speaking), intermediate-high (reading, writing)  
 
 ---
 
 # Note
 
-* currently not open for jobs.  
+* currently not open for jobs
 * Official English name spelling change, since Mar 4th 2018 `(Previous: June Han)`
