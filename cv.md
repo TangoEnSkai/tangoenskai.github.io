@@ -280,8 +280,8 @@ Dec. 2016
 * **Advanced**:
   * C/C++ (Compiler Construction)  
 * **Moderate**:
-  * Golang (gRPC, microservices), C#, Python (Tensorflow), Java (JUnit), Javascript (React, GraphQL, Flow, Jest, Enzyme, Puppeteer),  
-* **Novice**: 
+  * Golang (gRPC, microservices), C#, Python (Tensorflow), Java (JUnit), Javascript (React, GraphQL, Flow, Jest, Enzyme, Puppeteer)
+* **Novice**:
   * Elixir (Phoenix, Ecto, Absinthe, GraphQL, OTP), Erlang, OCaml, Assembly Language, Prolog, Lisp  
 
 ## Software Tools Skills
