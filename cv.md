@@ -257,7 +257,7 @@ Nov. 2014
 
 ---
 
-# SERTIFICATIONS BY E-LEARNING
+# CERTIFICATIONS BY E-LEARNING
 
 **Introduction to Gypsy Jazz Guitar**  
 _Udemy_  
