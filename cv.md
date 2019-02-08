@@ -30,6 +30,7 @@ _Tokyo Institute of Technology_
 **Dongguk University, Seoul, Republic of Korea**  
 **Bachelor of Science in Computer Science and Engineering (Advanced Course**  
 Mar. 2009 to Oct. 2016 **(GPA: 3.71)**  
+_Research Topics: UAS (Unmanned Aerial Syste), UAV (Unmanned Aerial Vehicle), Autoland (Aviation), Internet of Things (IoT),_  
 Advanced Computer Science and Engineering Course  
 by Accreditation Board for Engineering Education of Korea  
 
