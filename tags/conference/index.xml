@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference on Jun Hahn</title>
+    <link>https://junhahn.dev/tags/conference/</link>
+    <description>Recent content in Conference on Jun Hahn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://junhahn.dev/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Joined Mercari Tech Conference 2018</title>
+      <link>https://junhahn.dev/2018/mtc2018/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junhahn.dev/2018/mtc2018/</guid>
+      <description>Mercari Tech Conference 2018 at academyhills bldg., Roppongi, Minato, Tokyo
+I joined Mercari Tech Conference 2018.
+First, I thank to Mercari to offer free student ticket for the conference and a chance to have a lunch with their engineers and other participants.
+I was able to have nice talks with some of my friends working there as well as other Mercari engineers with their current works. Even though I was trying to join most of session in general, I spent more time on some sessions that talked about Golang, Microservices, and somehow Machine Learning.</description>
+    </item>
+    
+  </channel>
+</rss>

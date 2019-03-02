@@ -6,34 +6,53 @@
     <description>Recent content in Categories on Jun Hahn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 30 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://junhahn.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>https://junhahn.dev/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Academic</title>
+      <link>https://junhahn.dev/categories/academic/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junhahn.dev/categories/development/</guid>
+      <guid>https://junhahn.dev/categories/academic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>https://junhahn.dev/categories/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Conference</title>
+      <link>https://junhahn.dev/categories/conference/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junhahn.dev/categories/go/</guid>
+      <guid>https://junhahn.dev/categories/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etc.</title>
+      <link>https://junhahn.dev/categories/etc./</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junhahn.dev/categories/etc./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
       <link>https://junhahn.dev/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://junhahn.dev/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mooc</title>
+      <link>https://junhahn.dev/categories/mooc/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junhahn.dev/categories/mooc/</guid>
       <description></description>
     </item>
     

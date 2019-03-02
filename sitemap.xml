@@ -3,34 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://junhahn.dev/2014/creating-a-new-theme/</loc>
-      
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://junhahn.dev/2014/migrate-from-jekyll/</loc>
-      
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://junhahn.dev/about/</loc>
       
       <lastmod>2019-03-01T00:00:00+00:00</lastmod>
@@ -59,23 +31,9 @@
     </url>
   
     <url>
-      <loc>https://junhahn.dev/2014/goisforlovers/</loc>
+      <loc>https://junhahn.dev/2018/go-translation/</loc>
       
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://junhahn.dev/2014/hugoisforlovers/</loc>
-      
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-10T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -87,15 +45,85 @@
     </url>
   
     <url>
-      <loc>https://junhahn.dev/2014/goisforlovers.fr/</loc>
+      <loc>https://junhahn.dev/2018/mtc2018/</loc>
       
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-04T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
       
       
       <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://junhahn.dev/2018/acmchi-article/</loc>
+      
+      <lastmod>2018-07-30T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://junhahn.dev/2018/hello/</loc>
+      
+      <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://junhahn.dev/categories/academic/</loc>
+      
+      <lastmod>2018-07-30T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://junhahn.dev/tags/acm/</loc>
+      
+      <lastmod>2018-07-30T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://junhahn.dev/tags/aist/</loc>
+      
+      <lastmod>2018-07-30T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0</priority>
       
       
     </url>
@@ -103,19 +131,7 @@
     <url>
       <loc>https://junhahn.dev/categories/</loc>
       
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://junhahn.dev/categories/development/</loc>
-      
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-07-30T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -127,23 +143,9 @@
     </url>
   
     <url>
-      <loc>https://junhahn.dev/tags/development/</loc>
+      <loc>https://junhahn.dev/tags/conference/</loc>
       
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://junhahn.dev/categories/go/</loc>
-      
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-04T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -155,9 +157,9 @@
     </url>
   
     <url>
-      <loc>https://junhahn.dev/tags/go/</loc>
+      <loc>https://junhahn.dev/categories/conference/</loc>
       
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-04T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -169,9 +171,9 @@
     </url>
   
     <url>
-      <loc>https://junhahn.dev/categories/golang/</loc>
+      <loc>https://junhahn.dev/categories/etc./</loc>
       
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-01T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -185,7 +187,7 @@
     <url>
       <loc>https://junhahn.dev/tags/golang/</loc>
       
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-10T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -197,9 +199,37 @@
     </url>
   
     <url>
-      <loc>https://junhahn.dev/tags/hugo/</loc>
+      <loc>https://junhahn.dev/categories/golang/</loc>
       
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://junhahn.dev/tags/hci/</loc>
+      
+      <lastmod>2018-07-30T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://junhahn.dev/tags/hello/</loc>
+      
+      <lastmod>2018-06-01T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -213,7 +243,49 @@
     <url>
       <loc>https://junhahn.dev/</loc>
       
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://junhahn.dev/tags/mercari/</loc>
+      
+      <lastmod>2018-10-04T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://junhahn.dev/categories/mooc/</loc>
+      
+      <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://junhahn.dev/tags/mtc2018/</loc>
+      
+      <lastmod>2018-10-04T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -227,7 +299,21 @@
     <url>
       <loc>https://junhahn.dev/posts/</loc>
       
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://junhahn.dev/tags/sigchi/</loc>
+      
+      <lastmod>2018-07-30T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -241,7 +327,7 @@
     <url>
       <loc>https://junhahn.dev/tags/</loc>
       
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-07-30T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -253,9 +339,9 @@
     </url>
   
     <url>
-      <loc>https://junhahn.dev/tags/templates/</loc>
+      <loc>https://junhahn.dev/tags/technology/</loc>
       
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-04T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -267,9 +353,51 @@
     </url>
   
     <url>
-      <loc>https://junhahn.dev/tags/themes/</loc>
+      <loc>https://junhahn.dev/tags/translation/</loc>
       
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://junhahn.dev/tags/udemy/</loc>
+      
+      <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://junhahn.dev/tags/vtt/</loc>
+      
+      <lastmod>2018-07-30T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://junhahn.dev/tags/world/</loc>
+      
+      <lastmod>2018-06-01T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
