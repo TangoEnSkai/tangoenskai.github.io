@@ -113,20 +113,6 @@
     </url>
   
     <url>
-      <loc>https://junhahn.dev/tags/development/</loc>
-      
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://junhahn.dev/categories/development/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
@@ -141,7 +127,7 @@
     </url>
   
     <url>
-      <loc>https://junhahn.dev/tags/go/</loc>
+      <loc>https://junhahn.dev/tags/development/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -169,7 +155,7 @@
     </url>
   
     <url>
-      <loc>https://junhahn.dev/tags/golang/</loc>
+      <loc>https://junhahn.dev/tags/go/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
@@ -184,6 +170,20 @@
   
     <url>
       <loc>https://junhahn.dev/categories/golang/</loc>
+      
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://junhahn.dev/tags/golang/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
