@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jun Hahn on Jun Hahn</title>
+    <title>Mark Hahn on Mark Hahn</title>
     <link>https://junhahn.dev/</link>
-    <description>Recent content in Jun Hahn on Jun Hahn</description>
+    <description>Recent content in Mark Hahn on Mark Hahn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
@@ -15,7 +15,7 @@
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://junhahn.dev/about/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Jun Hahn&lt;/strong&gt;  is a master’s student at Department of Transdisciplinary Science and Engineering, Tokyo Institute of Technology, Tokyo, Japan. He received a bachelor of science (BSc) in &lt;strong&gt;computer science and engineering&lt;/strong&gt; `Dongguk University, Seoul, Republic of Korea.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Mark Jun Hahn&lt;/strong&gt;  is a master’s student at Department of Transdisciplinary Science and Engineering, Tokyo Institute of Technology, Tokyo, Japan. He received a bachelor of science (BSc) in &lt;strong&gt;computer science and engineering&lt;/strong&gt; `Dongguk University, Seoul, Republic of Korea.&lt;/p&gt;
 
 &lt;p&gt;He current research topic is about &lt;strong&gt;Psychometrics&lt;/strong&gt;, &lt;strong&gt;Universal Design&lt;/strong&gt;, and &lt;strong&gt;Interaction Design&lt;/strong&gt; to explore visual impairment and human-centred technology with multidisciplinary research methods. In detail, he is working on a Universal Design project to create informative recycling bins by employing &lt;a href=&#34;https://en.wikipedia.org/wiki/Pairwise_comparison&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;pairwise comparison&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Scheffé%27s_method&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Scheffé&amp;rsquo;s method&lt;/a&gt; with quantitatve surveys.&lt;/p&gt;
 
@@ -41,30 +41,30 @@
       <guid>https://junhahn.dev/cv/</guid>
       <description>
 
-&lt;h1 id=&#34;current-position-s&#34;&gt;CURRENT POSITION(S)&lt;/h1&gt;
+&lt;h1 id=&#34;u-current-positions-u&#34;&gt;&lt;u&gt;CURRENT POSITIONS&lt;/u&gt;&lt;/h1&gt;
 
-&lt;h2 id=&#34;software-engineer&#34;&gt;&lt;strong&gt;Software Engineer&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;software-engineer-at-mercari-inc&#34;&gt;Software Engineer at Mercari Inc.&lt;/h1&gt;
 
-&lt;p&gt;&lt;em&gt;Mercari Inc.&lt;/em&gt;, Tokyo, Japan
+&lt;p&gt;&lt;em&gt;Mercari Inc.&lt;/em&gt;, Tokyo, Japan&lt;br /&gt;
 Apr. 2019 to present&lt;br /&gt;
-Software Engineer (backend): golang/php, microservices (gRPC), TDD/DDD&lt;/p&gt;
+Software Engineer (backend)&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;education&#34;&gt;EDUCATION&lt;/h1&gt;
+&lt;h1 id=&#34;u-education-u&#34;&gt;&lt;u&gt;EDUCATION&lt;/u&gt;&lt;/h1&gt;
 
-&lt;h2 id=&#34;tokyo-institute-of-technology-tokyo-japan&#34;&gt;&lt;strong&gt;Tokyo Institute of Technology, Tokyo, Japan&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;tokyo-institute-of-technology-tokyo-japan&#34;&gt;Tokyo Institute of Technology, Tokyo, Japan&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;Master of Engineering&lt;/strong&gt;&lt;br /&gt;
 Apr. 2017 to Mar. 2019 &lt;strong&gt;(GPA: 4.02/4.50)&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Research Topics: Human Subjective Tests (Statistical Approaches as behaviour-metrics and psychometrics), Universal Design, Visual Impairment &amp;amp; Perception&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;Research Topics: Human Subjective Tests (Statistical Approaches as behaviour-metrics and psychometrics), Visual Impairment &amp;amp; Perception for inclusive design&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Graduate Major in Global Engineering for Development, Environment and Society,&lt;br /&gt;
 Department of Transdisciplinary Science and Engineering,&lt;br /&gt;
 School of Environment and Society,&lt;br /&gt;
 &lt;em&gt;Tokyo Institute of Technology&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;dongguk-university-seoul-republic-of-korea&#34;&gt;&lt;strong&gt;Dongguk University, Seoul, Republic of Korea&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;dongguk-university-seoul-republic-of-korea&#34;&gt;Dongguk University, Seoul, Republic of Korea&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;Bachelor of Science in Computer Science and Engineering (Advanced Course&lt;/strong&gt;&lt;br /&gt;
 Mar. 2009 to Oct. 2016 &lt;strong&gt;(GPA: 3.71)&lt;/strong&gt;&lt;br /&gt;
@@ -84,9 +84,9 @@ by Accreditation Board for Engineering Education of Korea&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;experience&#34;&gt;EXPERIENCE&lt;/h1&gt;
+&lt;h1 id=&#34;u-experience-u&#34;&gt;&lt;u&gt;EXPERIENCE&lt;/u&gt;&lt;/h1&gt;
 
-&lt;h2 id=&#34;software-engineering-intern&#34;&gt;&lt;strong&gt;Software Engineering Intern&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;software-engineering-intern&#34;&gt;Software Engineering Intern&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Eventacular&lt;/em&gt;, Tokyo, Japan&lt;br /&gt;
 Mar. 2018 to Jul. 2018&lt;br /&gt;
@@ -108,56 +108,56 @@ Backend and Frontend Software Development&lt;/p&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;communication-ambassador&#34;&gt;&lt;strong&gt;Communication Ambassador&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;communication-ambassador&#34;&gt;Communication Ambassador&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;ACM SIGCHI&lt;/em&gt;&lt;br /&gt;
 Mar. 2017 to Jul. 2018&lt;br /&gt;
 Being a SIGCHI Communication Ambassador is an exclusive opportunity for students, researcher and professionals active in the field of Human-Computer Interaction (HCI) around the world to spread the word about SIGCHI’s mission and members’ activities across the globe.&lt;/p&gt;
 
-&lt;h2 id=&#34;intern&#34;&gt;&lt;strong&gt;Intern&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;intern&#34;&gt;Intern&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Inferret&lt;/em&gt;, Tokyo, Japan&lt;br /&gt;
 Feb. 2018 to Apr. 2018&lt;br /&gt;
 Research Project Intern&lt;/p&gt;
 
-&lt;h2 id=&#34;teaching-assistant&#34;&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;teaching-assistant&#34;&gt;Teaching Assistant**&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Tokyo Institute of Technology&lt;/em&gt;, Tokyo, Japan&lt;br /&gt;
 Sep. 2017 to Nov. 2017&lt;br /&gt;
 LAW.X115 “Introduction to Society and Technology”&lt;/p&gt;
 
-&lt;h2 id=&#34;internship-programme&#34;&gt;&lt;strong&gt;Internship Programme&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;internship-programme&#34;&gt;Internship Programme&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Science Museum&lt;/em&gt;, London, United Kingdom&lt;br /&gt;
 Aug. 2017 to Aug. 2017&lt;br /&gt;
 Tokyo Tech Internship Programme&lt;br /&gt;
 LAW.X401 Science Communication Science &amp;amp; Engineering Design for Global Talents – Overseas Programme:    Working for Science Communication and researching on communication and interaction skills in the &lt;a href=&#34;http://www.sciencemuseum.org.uk&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;museum&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;teaching-assistant-1&#34;&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;teaching-assistant-1&#34;&gt;Teaching Assistant**&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Tokyo Institute of Technology&lt;/em&gt;, Tokyo, Japan&lt;br /&gt;
 Jun. 2017 to Aug. 2017&lt;br /&gt;
 TSE.C203 “Social Design Project”&lt;/p&gt;
 
-&lt;h2 id=&#34;teaching-assistant-2&#34;&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;teaching-assistant-2&#34;&gt;Teaching Assistant**&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Dongguk University&lt;/em&gt;, Seoul, Republic of Korea&lt;br /&gt;
 Mar. 2016 to Jun. 2016&lt;br /&gt;
 TA for a compulsory undergraduate course, Software in the future society [RGC 1040-02], for new student at the university. Roles were evaluating students’ assignment, reports and exams as well as answering their questions.&lt;/p&gt;
 
-&lt;h2 id=&#34;public-officer&#34;&gt;&lt;strong&gt;Public Officer&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;public-officer&#34;&gt;Public Officer&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Sangju City Hall&lt;/em&gt;, Gyeongsangbuk-do, Republic of Korea&lt;br /&gt;
 Feb. 2014 to Mar. 2015&lt;br /&gt;
 Worked as a public officer in a community centre to provide public service to citizenry.&lt;/p&gt;
 
-&lt;h2 id=&#34;public-officer-1&#34;&gt;&lt;strong&gt;Public Officer&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;public-officer-1&#34;&gt;Public Officer&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Central District Office (Jung-gu Office)&lt;/em&gt;, Seoul, Republic of Korea&lt;br /&gt;
 Apr. 2013 to Feb. 2014&lt;br /&gt;
 Worked as a public officer in a community centre to public service for companies and people.&lt;/p&gt;
 
-&lt;h2 id=&#34;research-project-assistant&#34;&gt;&lt;strong&gt;Research Project Assistant&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;research-project-assistant&#34;&gt;Research Project Assistant&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Dongguk University&lt;/em&gt;, Seoul, Republic of Korea&lt;br /&gt;
 May. 2010 to Jan. 2011&lt;br /&gt;
@@ -165,84 +165,84 @@ Worked as an administration assistant at Visual Simulation Lab.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;honours-and-awards&#34;&gt;HONOURS AND AWARDS&lt;/h1&gt;
+&lt;h1 id=&#34;u-honours-and-awards-u&#34;&gt;&lt;u&gt;HONOURS AND AWARDS&lt;/u&gt;&lt;/h1&gt;
 
-&lt;h2 id=&#34;achievement-award&#34;&gt;&lt;strong&gt;Achievement Award&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;achievement-award&#34;&gt;Achievement Award&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Korean Information Technology Supporters&lt;/em&gt;&lt;br /&gt;
 Dec. 2015&lt;/p&gt;
 
-&lt;h2 id=&#34;excellence-award-of-graduation-project&#34;&gt;&lt;strong&gt;Excellence Award of Graduation Project&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;excellence-award-of-graduation-project&#34;&gt;Excellence Award of Graduation Project&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Dept. of Computer Sci. and Eng., Dongguk University&lt;/em&gt;, Seoul&lt;br /&gt;
 Nov. 2015&lt;/p&gt;
 
-&lt;h2 id=&#34;the-president-s-special-award&#34;&gt;&lt;strong&gt;The President’s Special Award&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;the-president-s-special-award&#34;&gt;The President’s Special Award&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;the President of Dongguk University&lt;/em&gt;, Seoul&lt;br /&gt;
 Nov. 2015&lt;/p&gt;
 
-&lt;h2 id=&#34;the-first-prize&#34;&gt;&lt;strong&gt;The First Prize&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;the-first-prize&#34;&gt;The First Prize&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Dept. of Computer Sci. and Eng., Dongguk University&lt;/em&gt;, Seoul&lt;br /&gt;
 Dec. 2012&lt;/p&gt;
 
-&lt;h2 id=&#34;excellence-award&#34;&gt;&lt;strong&gt;Excellence Award&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;excellence-award&#34;&gt;Excellence Award&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Jeonggakwon&lt;/em&gt;, Dongguk University, Seoul&lt;br /&gt;
 Jun. 2012&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;scholarships&#34;&gt;SCHOLARSHIPS&lt;/h1&gt;
+&lt;h1 id=&#34;u-scholarships-u&#34;&gt;&lt;u&gt;SCHOLARSHIPS&lt;/u&gt;&lt;/h1&gt;
 
-&lt;h2 id=&#34;half-tuition-fees-3rd-quarter-and-4th-quarter-fy2018-fall&#34;&gt;&lt;strong&gt;Half Tuition Fees: 3rd Quarter and 4th Quarter (FY2018, Fall)&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;half-tuition-fees-3rd-quarter-and-4th-quarter-fy2018-fall&#34;&gt;Half Tuition Fees: 3rd Quarter and 4th Quarter (FY2018, Fall)&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Tokyo Institute of Technology&lt;/em&gt;, Tokyo, Japan&lt;br /&gt;
 Sep. 2018 to Feb. 2019&lt;/p&gt;
 
-&lt;h2 id=&#34;half-tuition-fees-1st-quarter-and-2nd-quarter-fy2018-spring&#34;&gt;&lt;strong&gt;Half Tuition Fees: 1st Quarter and 2nd Quarter (FY2018, Spring)&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;half-tuition-fees-1st-quarter-and-2nd-quarter-fy2018-spring&#34;&gt;Half Tuition Fees: 1st Quarter and 2nd Quarter (FY2018, Spring)&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Tokyo Institute of Technology&lt;/em&gt;, Tokyo, Japan&lt;br /&gt;
 Apr. 2018 to Aug. 2018&lt;/p&gt;
 
-&lt;h2 id=&#34;half-tuition-fees-3rd-quarter-and-4th-quarter-fy2017-fall&#34;&gt;&lt;strong&gt;Half Tuition Fees: 3rd Quarter and 4th Quarter (FY2017, Fall)&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;half-tuition-fees-3rd-quarter-and-4th-quarter-fy2017-fall&#34;&gt;Half Tuition Fees: 3rd Quarter and 4th Quarter (FY2017, Fall)&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Tokyo Institute of Technology&lt;/em&gt;, Tokyo, Japan&lt;br /&gt;
 Sep. 2017 to Feb. 2018&lt;/p&gt;
 
-&lt;h2 id=&#34;full-tuition-fees-1st-quarter-and-2nd-quarter-fy2017-spring&#34;&gt;&lt;strong&gt;Full Tuition Fees: 1st Quarter and 2nd Quarter (FY2017, Spring)&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;full-tuition-fees-1st-quarter-and-2nd-quarter-fy2017-spring&#34;&gt;Full Tuition Fees: 1st Quarter and 2nd Quarter (FY2017, Spring)&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Tokyo Institute of Technology&lt;/em&gt;, Tokyo, Japan&lt;br /&gt;
 Apr. 2017 to Aug. 2017&lt;/p&gt;
 
-&lt;h2 id=&#34;monbukagakusho-honors-scholarship&#34;&gt;&lt;strong&gt;Monbukagakusho Honors Scholarship&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;monbukagakusho-honors-scholarship&#34;&gt;Monbukagakusho Honors Scholarship&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Japanese Student Service Organization (JASSO)&lt;/em&gt;, Japan&lt;br /&gt;
 Apr. 2017 to Mar. 2018&lt;/p&gt;
 
-&lt;h2 id=&#34;teaching-assistant-scholarship&#34;&gt;&lt;strong&gt;Teaching Assistant Scholarship&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;teaching-assistant-scholarship&#34;&gt;Teaching Assistant Scholarship&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Dongguk University&lt;/em&gt;, Seoul, Republic of Korea&lt;br /&gt;
 Mar. 2015 to Jun. 2015&lt;/p&gt;
 
-&lt;h2 id=&#34;photography-exhibition-winner-scholarship&#34;&gt;&lt;strong&gt;Photography Exhibition Winner Scholarship&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;photography-exhibition-winner-scholarship&#34;&gt;Photography Exhibition Winner Scholarship&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Dongguk University&lt;/em&gt;, Seoul, Republic of Korea&lt;br /&gt;
 Jun. 2012&lt;/p&gt;
 
-&lt;h2 id=&#34;japanese-language-program-scholarship&#34;&gt;&lt;strong&gt;Japanese Language Program Scholarship&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;japanese-language-program-scholarship&#34;&gt;Japanese Language Program Scholarship&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Ishikawa Foundation for International Exchange&lt;/em&gt;, Ishikawa, Japan&lt;br /&gt;
 Feb. 2012&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;publications&#34;&gt;PUBLICATIONS&lt;/h1&gt;
+&lt;h1 id=&#34;u-publications-u&#34;&gt;&lt;u&gt;PUBLICATIONS&lt;/u&gt;&lt;/h1&gt;
 
-&lt;p&gt;&lt;em&gt;1st Author Paper only&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;First Author Paper only&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;2018&#34;&gt;2018&lt;/h2&gt;
+&lt;h1 id=&#34;2018&#34;&gt;2018&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;J. Hahn&lt;/strong&gt; and F. Takahashi. 2018. Universal Design for Bins with Psychological Analysis of People&amp;rsquo;s Preference. &lt;em&gt;In proceeding of the 10th Asia-Pacific Landfill Symposium (APLAS Tokyo 2018)&lt;/em&gt;, Tokyo, Japan&lt;/p&gt;
 
@@ -254,15 +254,15 @@ Feb. 2012&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;J. Han&lt;/strong&gt; and T. Hope. 2018. Pair Matching: Transdisciplinary Study for Introducing Computational Intelligence to Guide Dog Associations. &lt;em&gt;In Proceedings of the 23rd international conference on Intelligent user interfaces (IUI ’18)&lt;/em&gt;. ACM, Tokyo, Japan&lt;/p&gt;
 
-&lt;h2 id=&#34;2015&#34;&gt;2015&lt;/h2&gt;
+&lt;h1 id=&#34;2015&#34;&gt;2015&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;J. HAN&lt;/strong&gt; et al.. 2015. An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module. &lt;em&gt;Winter Annual Korean Institute of Information Scientists and Engineers (KIISE) symposium 2015&lt;/em&gt;, Pyeongchang, Republic of Korea, pp.1473~1475&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;presentations&#34;&gt;PRESENTATIONS&lt;/h1&gt;
+&lt;h1 id=&#34;u-presentations-u&#34;&gt;&lt;u&gt;PRESENTATIONS&lt;/u&gt;&lt;/h1&gt;
 
-&lt;h2 id=&#34;2018-1&#34;&gt;2018&lt;/h2&gt;
+&lt;h1 id=&#34;2018-1&#34;&gt;2018&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;J. Hahn&lt;/strong&gt;. 2018. Universal Design for Bins with Psychological Analysis of People&amp;rsquo;s Preference. &lt;em&gt;In proceeding of the 10th Asia-Pacific Landfill Symposium (APLAS Tokyo 2018)&lt;/em&gt;, Tokyo, Japan&lt;/p&gt;
 
@@ -274,32 +274,32 @@ Feb. 2012&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;J. HAN&lt;/strong&gt;. 2018. Pair Matching: Transdisciplinary Study for Introducing Computational Intelligence to Guide Dog Associations. &lt;em&gt;In Proceedings of the 23rd international conference on Intelligent user interfaces (IUI ’18)&lt;/em&gt;. ACM, Tokyo, Japan&lt;/p&gt;
 
-&lt;h2 id=&#34;2015-1&#34;&gt;2015&lt;/h2&gt;
+&lt;h1 id=&#34;2015-1&#34;&gt;2015&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;J. HAN&lt;/strong&gt; et al.. 2015. An evaluation on accuracy of UAVs’ autonomous landing using GPS sensor module. &lt;em&gt;In KIISE(Korean Institute of Information Scientists and Engineers) winter symposium 2015&lt;/em&gt;, KIISE Pyeongchang, Republic of Korea&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;workshops-events&#34;&gt;WORKSHOPS &amp;amp; EVENTS&lt;/h1&gt;
+&lt;h1 id=&#34;u-workshops-events-u&#34;&gt;&lt;u&gt;WORKSHOPS &amp;amp; EVENTS&lt;/u&gt;&lt;/h1&gt;
 
-&lt;h2 id=&#34;kanto-branch-workshop-of-jsmcwm-tokyo&#34;&gt;Kanto-Branch Workshop of JSMCWM, Tokyo&lt;/h2&gt;
+&lt;h1 id=&#34;kanto-branch-workshop-of-jsmcwm-tokyo&#34;&gt;Kanto-Branch Workshop of JSMCWM, Tokyo&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;@Kougakuin University, Shinkuju Campus&lt;/em&gt;&lt;br /&gt;
 networking and sharing research progresses&lt;/p&gt;
 
-&lt;h2 id=&#34;technology-and-product-in-context&#34;&gt;Technology and Product in Context&lt;/h2&gt;
+&lt;h1 id=&#34;technology-and-product-in-context&#34;&gt;Technology and Product in Context&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;CSM, University of the Arts London&lt;/em&gt;  @Tokyo Tech&lt;br /&gt;
 Feb 2018&lt;br /&gt;
 by Dr. Ulrike Oberlack from &lt;em&gt;CSM&lt;/em&gt; and prof. Kayoko Nohara from &lt;em&gt;TokyoTech&lt;/em&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;designing-wearable-lights&#34;&gt;Designing Wearable Lights&lt;/h2&gt;
+&lt;h1 id=&#34;designing-wearable-lights&#34;&gt;Designing Wearable Lights&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;CSM, University of the Arts London&lt;/em&gt;  @Tokyo Tech&lt;br /&gt;
 Nov 2017&lt;br /&gt;
 &lt;a href=&#34;http://blogs.arts.ac.uk/csm/2017/10/17/tokyo-second/#&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;CSM x TokyoTech&lt;/a&gt; by Dr. Betti Marenko from &lt;em&gt;CSM&lt;/em&gt; and prof. Kayoko Nohara from &lt;em&gt;TokyoTech&lt;/em&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;design-thnking-workshop&#34;&gt;Design Thnking Workshop&lt;/h2&gt;
+&lt;h1 id=&#34;design-thnking-workshop&#34;&gt;Design Thnking Workshop&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;d.school, Stanford University&lt;/em&gt; @Tokyo Tech&lt;br /&gt;
 Mar 2017&lt;br /&gt;
@@ -307,61 +307,61 @@ Mar 2017&lt;br /&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;patents&#34;&gt;PATENTS&lt;/h1&gt;
+&lt;h1 id=&#34;u-patents-u&#34;&gt;&lt;u&gt;PATENTS&lt;/u&gt;&lt;/h1&gt;
 
-&lt;h2 id=&#34;patent-registered-and-issued&#34;&gt;Patent Registered and Issued&lt;/h2&gt;
+&lt;h1 id=&#34;patent-registered-and-issued&#34;&gt;Patent Registered and Issued&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;26th Jan 2016&lt;/strong&gt;&lt;br /&gt;
 Patent Application Number:10-2016-0006783, Korean Intellectual Property Office, “Unmanned Aerial Vehicle for improving landing accuracy and station comprising rotational linear slide rail”, &lt;strong&gt;J. HAN&lt;/strong&gt;, K. W. LEE, J. S. KIM, J. H. KIM, J. H. YANG&lt;/p&gt;
 
-&lt;h2 id=&#34;filed-patent-application-patent-pending&#34;&gt;Filed Patent Application, Patent Pending&lt;/h2&gt;
+&lt;h1 id=&#34;filed-patent-application-patent-pending&#34;&gt;Filed Patent Application, Patent Pending&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;31st Dec 2016&lt;/strong&gt;
 Patent Application Number: 10-2015-0191604, Korean Intellectual Property Office, “Method for improving landing accuracy of Unmanned Aerial Vehicle and apparatus thereof”, J. HAN, K. W. LEE, J. S. KIM, J. H. KIM, J. H. YANG&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;certifications-and-licensure&#34;&gt;CERTIFICATIONS AND LICENSURE&lt;/h1&gt;
+&lt;h1 id=&#34;u-certifications-and-licensure-u&#34;&gt;&lt;u&gt;CERTIFICATIONS AND LICENSURE&lt;/u&gt;&lt;/h1&gt;
 
-&lt;h2 id=&#34;level-4-intellectual-property-ability-test&#34;&gt;&lt;strong&gt;level 4, Intellectual Property Ability Test&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;level-4-intellectual-property-ability-test&#34;&gt;level 4, Intellectual Property Ability Test&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Korea Invention Promotion Association&lt;/em&gt;&lt;br /&gt;
 Nov. 2015&lt;/p&gt;
 
-&lt;h2 id=&#34;iot-internet-of-things-smart-convergence-expert-training-programme&#34;&gt;&lt;strong&gt;IoT(Internet of Things) Smart convergence expert training programme&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;iot-internet-of-things-smart-convergence-expert-training-programme&#34;&gt;IoT(Internet of Things) Smart convergence expert training programme&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Intel Korea&lt;/em&gt; and &lt;em&gt;Seoul National University of Science and Technology&lt;/em&gt;&lt;br /&gt;
 Nov. 2015&lt;/p&gt;
 
-&lt;h2 id=&#34;national-technical-qualification-engineer-information-processing&#34;&gt;&lt;strong&gt;National Technical Qualification: Engineer Information Processing&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;national-technical-qualification-engineer-information-processing&#34;&gt;National Technical Qualification: Engineer Information Processing&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Human Resources Development Service of Korea&lt;/em&gt;&lt;br /&gt;
 Nov. 2014&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;certifications-by-e-learning&#34;&gt;CERTIFICATIONS BY E-LEARNING&lt;/h1&gt;
+&lt;h1 id=&#34;u-certifications-by-e-learning-u&#34;&gt;&lt;u&gt;CERTIFICATIONS BY E-LEARNING&lt;/u&gt;&lt;/h1&gt;
 
-&lt;h2 id=&#34;introduction-to-gypsy-jazz-guitar&#34;&gt;&lt;strong&gt;Introduction to Gypsy Jazz Guitar&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;introduction-to-gypsy-jazz-guitar&#34;&gt;Introduction to Gypsy Jazz Guitar&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Udemy&lt;/em&gt;&lt;br /&gt;
 Dec. 2018&lt;/p&gt;
 
-&lt;h2 id=&#34;introduction-to-html5&#34;&gt;&lt;strong&gt;Introduction to HTML5&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;introduction-to-html5&#34;&gt;Introduction to HTML5&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;University of Michigan&lt;/em&gt;&lt;br /&gt;
 Dec. 2017&lt;/p&gt;
 
-&lt;h2 id=&#34;programming-for-everybody-getting-started-with-python&#34;&gt;&lt;strong&gt;Programming for Everybody (Getting Started with Python)&lt;/strong&gt;&lt;/h2&gt;
+&lt;h1 id=&#34;programming-for-everybody-getting-started-with-python&#34;&gt;Programming for Everybody (Getting Started with Python)&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;University of Michigan&lt;/em&gt;&lt;br /&gt;
 Dec. 2016&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;skills&#34;&gt;SKILLS&lt;/h1&gt;
+&lt;h1 id=&#34;u-skills-u&#34;&gt;&lt;u&gt;SKILLS&lt;/u&gt;&lt;/h1&gt;
 
-&lt;h2 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h2&gt;
+&lt;h1 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Advanced&lt;/strong&gt;:
@@ -381,12 +381,12 @@ Dec. 2016&lt;/p&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;software-tools-skills&#34;&gt;Software Tools Skills&lt;/h2&gt;
+&lt;h1 id=&#34;software-tools-skills&#34;&gt;Software Tools Skills&lt;/h1&gt;
 
 &lt;p&gt;Git, Github, Slack, PivotalTracker&lt;br /&gt;
 Microsoft Excel for numerical mathematics/analysis, statistical calculation&lt;/p&gt;
 
-&lt;h2 id=&#34;language-skills&#34;&gt;Language Skills&lt;/h2&gt;
+&lt;h1 id=&#34;language-skills&#34;&gt;Language Skills&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Korean: Native Language&lt;br /&gt;&lt;/li&gt;
@@ -396,7 +396,7 @@ Microsoft Excel for numerical mathematics/analysis, statistical calculation&lt;/
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;note&#34;&gt;Note&lt;/h1&gt;
+&lt;h1 id=&#34;u-note-u&#34;&gt;&lt;u&gt;Note&lt;/u&gt;&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;currently not open for jobs&lt;/li&gt;
