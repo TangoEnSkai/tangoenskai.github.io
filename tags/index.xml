@@ -1,42 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mark Hahn</title>
+    <title>Tags on Jun Mark Hahn</title>
     <link>https://junhahn.dev/tags/</link>
-    <description>Recent content in Tags on Mark Hahn</description>
+    <description>Recent content in Tags on Jun Mark Hahn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://junhahn.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Acm</title>
-      <link>https://junhahn.dev/tags/acm/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://junhahn.dev/tags/acm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aist</title>
-      <link>https://junhahn.dev/tags/aist/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://junhahn.dev/tags/aist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conference</title>
-      <link>https://junhahn.dev/tags/conference/</link>
-      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://junhahn.dev/tags/conference/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Golang</title>
@@ -44,60 +17,6 @@
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://junhahn.dev/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hci</title>
-      <link>https://junhahn.dev/tags/hci/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://junhahn.dev/tags/hci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>https://junhahn.dev/tags/hello/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://junhahn.dev/tags/hello/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mercari</title>
-      <link>https://junhahn.dev/tags/mercari/</link>
-      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://junhahn.dev/tags/mercari/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mtc2018</title>
-      <link>https://junhahn.dev/tags/mtc2018/</link>
-      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://junhahn.dev/tags/mtc2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sigchi</title>
-      <link>https://junhahn.dev/tags/sigchi/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://junhahn.dev/tags/sigchi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
-      <link>https://junhahn.dev/tags/technology/</link>
-      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://junhahn.dev/tags/technology/</guid>
       <description></description>
     </item>
     
@@ -120,11 +39,92 @@
     </item>
     
     <item>
-      <title>Vtt</title>
+      <title>Conference</title>
+      <link>https://junhahn.dev/tags/conference/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junhahn.dev/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTC2018</title>
+      <link>https://junhahn.dev/tags/mtc2018/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junhahn.dev/tags/mtc2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mercari</title>
+      <link>https://junhahn.dev/tags/mercari/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junhahn.dev/tags/mercari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://junhahn.dev/tags/technology/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junhahn.dev/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACM</title>
+      <link>https://junhahn.dev/tags/acm/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junhahn.dev/tags/acm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AIST</title>
+      <link>https://junhahn.dev/tags/aist/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junhahn.dev/tags/aist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HCI</title>
+      <link>https://junhahn.dev/tags/hci/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junhahn.dev/tags/hci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGCHI</title>
+      <link>https://junhahn.dev/tags/sigchi/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junhahn.dev/tags/sigchi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VTT</title>
       <link>https://junhahn.dev/tags/vtt/</link>
       <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://junhahn.dev/tags/vtt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://junhahn.dev/tags/hello/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junhahn.dev/tags/hello/</guid>
       <description></description>
     </item>
     

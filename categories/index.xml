@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Mark Hahn</title>
+    <title>Categories on Jun Mark Hahn</title>
     <link>https://junhahn.dev/categories/</link>
-    <description>Recent content in Categories on Mark Hahn</description>
+    <description>Recent content in Categories on Jun Mark Hahn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://junhahn.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academic</title>
-      <link>https://junhahn.dev/categories/academic/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Golang</title>
+      <link>https://junhahn.dev/categories/golang/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://junhahn.dev/categories/academic/</guid>
+      <guid>https://junhahn.dev/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOOC</title>
+      <link>https://junhahn.dev/categories/mooc/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junhahn.dev/categories/mooc/</guid>
       <description></description>
     </item>
     
@@ -30,29 +39,20 @@
     </item>
     
     <item>
-      <title>Etc.</title>
+      <title>Academic</title>
+      <link>https://junhahn.dev/categories/academic/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junhahn.dev/categories/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>etc.</title>
       <link>https://junhahn.dev/categories/etc./</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://junhahn.dev/categories/etc./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>https://junhahn.dev/categories/golang/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://junhahn.dev/categories/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mooc</title>
-      <link>https://junhahn.dev/categories/mooc/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://junhahn.dev/categories/mooc/</guid>
       <description></description>
     </item>
     
