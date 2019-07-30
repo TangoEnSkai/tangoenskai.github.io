@@ -6,7 +6,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://junhahn.dev/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
@@ -404,85 +404,6 @@ Microsoft Excel for numerical mathematics/analysis, statistical calculation&lt;/
 &lt;ul&gt;
 &lt;li&gt;currently not open for jobs&lt;/li&gt;
 &lt;li&gt;name spelling change in English, since Mar 4th 2018 &lt;em&gt;(Previous: June Han)&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Started translation for a Golang Udemy course</title>
-      <link>https://junhahn.dev/2018/go-translation/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://junhahn.dev/2018/go-translation/</guid>
-      <description>&lt;p&gt;I started working as a contributor (translation Eng-Kor) for &lt;strong&gt;Google&amp;rsquo;s Go (golang) Programming Language&lt;/strong&gt;, a Udemy course by Todd McLeod. Todd kindly accepted my suggestion to translate his contents in Korean and accepted my very first Pull Request.&lt;/p&gt;
-
-&lt;p&gt;The Github repository that I am working on is &lt;a href=&#34;https://github.com/GoesToEleven/go-programming&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;GoesToEleven/go-programming&lt;/a&gt;, espeically for English to Korean translation work.&lt;/p&gt;
-
-&lt;p&gt;I have researched some lectures/courses that seem good for a starting point to learn &lt;code&gt;golang&lt;/code&gt; since I needed to pick a online course for a study group to learn golang (we decide to go through with a course with additonal materials) and Todd&amp;rsquo;s lectures on Udemy are highly recommended.&lt;/p&gt;
-
-&lt;p&gt;I am glad to contribute the course by adding Korean translation as well as fixing some minor typos, etc. Hopefully, this activity is helpful for other people who want to learn &lt;code&gt;golang&lt;/code&gt; in Korean, as well as reinforce my knowledge about the best programming language on this planet, IMHO!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Joined Mercari Tech Conference 2018</title>
-      <link>https://junhahn.dev/2018/mtc2018/</link>
-      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://junhahn.dev/2018/mtc2018/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Mercari Tech Conference 2018&lt;/strong&gt; at academyhills bldg., Roppongi, Minato, Tokyo&lt;/p&gt;
-
-&lt;p&gt;I joined &lt;a href=&#34;https://techconf.mercari.com&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Mercari Tech Conference 2018&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;First, I thank to Mercari to offer free student ticket for the conference and a chance to have a lunch with their engineers and other participants.&lt;/p&gt;
-
-&lt;p&gt;I was able to have nice talks with some of my friends working there as well as other Mercari engineers with their current works. Even though I was trying to join most of session in general, I spent more time on some sessions that talked about &lt;strong&gt;Golang&lt;/strong&gt;, &lt;strong&gt;Microservices&lt;/strong&gt;, and somehow Machine Learning. It was quite impressive that the company is going to change their system from &lt;strong&gt;monolith&lt;/strong&gt; to &lt;strong&gt;microservices&lt;/strong&gt; as well as changing their backend code in &lt;strong&gt;php&lt;/strong&gt; to &lt;strong&gt;Golang&lt;/strong&gt;. I like one of the mottoes of the company, &lt;em&gt;GoBlod&lt;/em&gt; and it made me remain this quote:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;If you want to be successful, get in front of what&amp;rsquo;s coming and let it hit you.&amp;rdquo; -Bill Gates&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Human-Computer Interaction (HCI) on Ageing Soceity in East and North-East Asia (ENEA)</title>
-      <link>https://junhahn.dev/2018/acmchi-article/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://junhahn.dev/2018/acmchi-article/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Jun Hahn&lt;/strong&gt;, &lt;em&gt;ACM SIGCHI Communication Ambassador&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;According to United Nations Economic and Social Commission for Asia and the Pacific (UN ESCAP), population ageing in East and North-East Asia (ENEA) is distinctly remarkable as the sub-region is home to a high ratio of elder people in the world [1]. In 2015, 32% of people in the world, older than 65 years old, are living in ENEA. In Asia, 56% of the older persons are from ENEA. By 2050, International Longevity Center Japan (ILC-Japan) has predicted one in every three persons will be older than 65 [2]. Therefore, a lot of HCI projects or related works have started to tackle issues with elderly people with HCI devices and systems especially in Japan and ENEA countries.&lt;/p&gt;
-
-&lt;p&gt;In November 2017, there was a symposium about a project called METESE by National Institute of Advanced Industrial Science and Technology (AIST) from Japan and VTT Technical Research Centre of Finland (VTT) [3]. METESE stands for MEaningful TEchnology for SEniors which aims to improve the quality of life for elderly people by utilising ICT-supportive services and robotic devices for the older users. In addition, there will be four academic conferences sponsored by ACM SIGCHI in Tokyo, Japan and Seoul, Korea in 2018. There will be papers [4] and workshops [5] on HCI systems for elderly users, hospital, visual impairment which are quite challenging, but important to design better lifestyle with HCI in the future.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The original article released at &lt;a href=&#34;https://sigchi.org/people/volunteer-spotlight/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;ACM SIGCHI offical homepage&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;br /&gt;
-[1] United Nations Economic and Social Commission for Asia and the Pacific. Population Ageing in East and East-North Asia (2018) &lt;a href=&#34;http://www.unescap.org/ageing-asia/countries&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://www.unescap.org/ageing-asia/countries&lt;/a&gt;&lt;br /&gt;
-[2] International Longevity Center Japan. A Profile of Older Japanese (2013)  &lt;a href=&#34;http://www.ilcjapan.org/agingE/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://www.ilcjapan.org/agingE/&lt;/a&gt;&lt;br /&gt;
-[3] AIST and VTT. METESE – Meaningful Technology for Seniors &lt;a href=&#34;http://www.vtt.fi/sites/METESE/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://www.vtt.fi/sites/METESE/&lt;/a&gt;&lt;br /&gt;
-[4] ACM IUI2018 Accepted Papers &lt;a href=&#34;http://iui.acm.org/2018/accepted_papers.html&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;http://iui.acm.org/2018/accepted_papers.html&lt;/a&gt;&lt;br /&gt;
-[5] ACM TVX2018 Workshops &lt;a href=&#34;https://tvx.acm.org/2018/?page_id=21&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://tvx.acm.org/2018/?page_id=21&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://junhahn.dev/2018/hello/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://junhahn.dev/2018/hello/</guid>
-      <description>&lt;p&gt;Hi, There? I am &lt;strong&gt;Jun&lt;/strong&gt;, a master’s student at Department of Transdisciplinary Science and Engineering, School of Environment and Society, &lt;a href=&#34;https://www.titech.ac.jp/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Tokyo Institute of Technology&lt;/a&gt;. communication ambassador of &lt;a href=&#34;https://sigchi.org/people/volunteer-spotlight/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;ACM SIGCHI&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Favourite quotes:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The world is not a desktop. -&lt;strong&gt;Mark Weiser&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;I propose to consider the question, &lt;em&gt;&amp;lsquo;Can machines think?&amp;rsquo;&lt;/em&gt; -&lt;strong&gt;Alan Turing&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Computer science is no more about computers than astronomy is about telescopes. -&lt;strong&gt;Edsger Dijkstra&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Computer science inverts the normal. In normal science, you&amp;rsquo;re given a world, and your job is to find out the rules. In computer science, you give the computer the rules, and it creates the world. - &lt;strong&gt;Alan Kay&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Computer science inverts the normal. In normal science, you&amp;rsquo;re given a world, and your job is to find out the rules. In computer science, you give the computer the rules, and it creates the world. -&lt;strong&gt;Donald Knuth&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
