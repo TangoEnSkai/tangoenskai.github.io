@@ -4,6 +4,13 @@
     
         
         <url>
+            <loc>https://tangoenskai.github.io/about/</loc>
+            <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>https://tangoenskai.github.io/</loc>
             <lastmod>2020-09-15T00:00:00+00:00</lastmod>
         </url>
@@ -20,6 +27,20 @@
         <url>
             <loc>https://tangoenskai.github.io/photos/</loc>
             <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://tangoenskai.github.io/posts/microservice-foundation/</loc>
+            <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://tangoenskai.github.io/posts/</loc>
+            <lastmod>2020-09-01T00:00:00+00:00</lastmod>
         </url>
         
     
@@ -68,13 +89,6 @@
         
         <url>
             <loc>https://tangoenskai.github.io/posts/what-is-hugo/</loc>
-            <lastmod>2019-08-03T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://tangoenskai.github.io/posts/</loc>
             <lastmod>2019-08-03T00:00:00+00:00</lastmod>
         </url>
         

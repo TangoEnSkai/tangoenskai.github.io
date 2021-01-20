@@ -12,12 +12,31 @@
     
     
     <item>
+      <title>About</title>
+      <link>https://tangoenskai.github.io/about/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tangoenskai.github.io/about/</guid>
+      <description>Software Engineer specialised in Microservices with Golang.
+Biography Jun “Mark” Hahn is currently a Software Engineer (Backend) at Mercari, Inc. He joined Mercari, as a new grad in April 2019. In the past, he has studied multidisciplinary fields such as computer science, psychometrics, social science, and liberal arts. Although his experience is mostly based on theoretical studies, his interests are in practical contributions to our daily lives through technology. As a software engineer, his current focus is on Microservices Architecture, Golang, and a little bit of functional programming.</description>
+    </item>
+    
+    <item>
       <title>Ookurayama, Japan</title>
       <link>https://tangoenskai.github.io/photos/ookurayama-japan/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://tangoenskai.github.io/photos/ookurayama-japan/</guid>
       <description>Ookurayama stn. is a small subway station, where you can also have a small Japanese local community with many small shops, restaurants, markets, etc. Ookurayama has quite a lot of buildings inspired by Greek architecture styles by some historical reason. If you want to explore small town, this place would be one of the best you can have a visit in Yokohama. Photo Taken by Leica M-A, 50mm Summicron with Kodak Tri-X 400</description>
+    </item>
+    
+    <item>
+      <title>Microservice Foundation</title>
+      <link>https://tangoenskai.github.io/posts/microservice-foundation/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tangoenskai.github.io/posts/microservice-foundation/</guid>
+      <description>Microservice Foundation  &amp;ndash;</description>
     </item>
     
     <item>

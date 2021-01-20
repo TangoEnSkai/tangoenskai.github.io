@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Mark Hahn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tangoenskai.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microservice Foundation</title>
+      <link>https://tangoenskai.github.io/posts/microservice-foundation/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tangoenskai.github.io/posts/microservice-foundation/</guid>
+      <description>Microservice Foundation  &amp;ndash;</description>
+    </item>
     
     <item>
       <title>Introduction</title>
