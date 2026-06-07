@@ -16,10 +16,14 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Set up SSH deploy key
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.LIBERWERKIO_DEPLOY_KEY }}
+
       - name: Push to LiberWerk.github.io
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote add target \
-            https://x-access-token:${{ secrets.LIBERWERKIO_SYNC_TOKEN }}@github.com/LiberWerk/LiberWerk.github.io.git
+          git remote add target git@github.com:LiberWerk/LiberWerk.github.io.git
           git push target main --force
