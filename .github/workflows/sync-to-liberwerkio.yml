@@ -25,5 +25,18 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote add target git@github.com:LiberWerk/LiberWerk.github.io.git
-          git push target main --force
+
+          # Clone the target repo
+          git clone git@github.com:LiberWerk/LiberWerk.github.io.git /tmp/target
+
+          # Sync all content except .github/workflows (deploy key cannot push workflow files)
+          rsync -av --delete \
+            --exclude='.git/' \
+            --exclude='.github/workflows/' \
+            ./ /tmp/target/
+
+          cd /tmp/target
+          git add -A
+          git diff --cached --quiet && echo "Nothing to sync" && exit 0
+          git commit -m "sync: update from tangoenskai/tangoenskai.github.io [skip ci]"
+          git push origin main
