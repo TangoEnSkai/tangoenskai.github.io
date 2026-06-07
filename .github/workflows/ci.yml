@@ -35,6 +35,8 @@ jobs:
         with:
           args: >
             --exclude "^mailto:"
+            --exclude "^/"
+            --exclude "^#"
             --exclude "^https://fonts\.(googleapis|gstatic)\.com"
             --exclude "^https://github\.com/TangoEnSkai"
             --timeout 30
