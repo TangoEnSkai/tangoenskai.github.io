@@ -1,0 +1,51 @@
+name: i18n Coverage Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  i18n-coverage:
+    name: Translation Key Coverage
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Check i18n key coverage
+        run: node .github/scripts/check-i18n.js
+
+  i18n-render:
+    name: Per-language Rendering Check
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Playwright
+        run: |
+          npm init -y
+          npm install --save-dev @playwright/test
+          npx playwright install --with-deps chromium
+
+      - name: Serve site locally
+        run: npx --yes serve . -p 3000 &
+        shell: bash
+
+      - name: Wait for server
+        run: npx --yes wait-on http://localhost:3000 --timeout 30000
+
+      - name: Run i18n render tests
+        run: npx playwright test .github/tests/i18n.spec.js --reporter=list
