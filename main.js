@@ -9,6 +9,7 @@ const translations = {
     'hero.line1': 'Engineering Leadership,',
     'hero.line2': 'Redefined.',
     'hero.sub': 'I help startups and technology companies build world-class engineering organisations — as an advisor, fractional CTO, or VP of Engineering.',
+    'hero.availability': 'Available for Q3 2026 engagements',
     'hero.cta1': 'Work with Me',
     'hero.cta2': 'See Services',
     'stats.dau': 'Daily Active Users',
@@ -30,6 +31,22 @@ const translations = {
     'stats.langs.num': 'EN · JP · KR',
     'stats.langs': 'Working Languages',
     'stats.langs.ctx': 'Trilingual leadership',
+    'svc.fit.label': 'Best suited for',
+    'svc.cto.fit': 'Seed to Series A startups without a full-time CTO',
+    'svc.vpe.fit': 'Series A–C companies scaling an engineering team rapidly',
+    'svc.advisory.fit': 'Founders and engineering leaders who want a trusted technical sounding board',
+    'svc.devops.fit': 'Teams with slow deploys, fragile pipelines, or monolith migration plans',
+    'faq.title': 'Frequently Asked Questions',
+    'faq.q1': 'How quickly can an engagement start?',
+    'faq.a1': 'Typically within two to four weeks of an initial conversation. I keep capacity for one to two engagements at a time, so it is worth reaching out early if you have a specific timeline.',
+    'faq.q2': 'Do you work with companies outside Japan?',
+    'faq.a2': 'Yes. I work remotely with companies across the Asia-Pacific region and internationally. Most engagements are conducted in English, Japanese, or Korean depending on the team.',
+    'faq.q3': 'What does a typical week look like for a retainer engagement?',
+    'faq.a3': 'It varies by need. Common patterns include weekly leadership syncs, architecture review sessions, async reviews of PRDs or RFCs, and availability for ad-hoc questions via Slack or email. We agree on a rhythm at the start.',
+    'faq.q4': 'Can I start with a one-off session before committing?',
+    'faq.a4': 'Yes. A scoped discovery session is available to assess fit and define a concrete engagement scope before any retainer commitment.',
+    'faq.q5': 'What industries do you focus on?',
+    'faq.a5': 'Consumer technology, B2B SaaS, and marketplace platforms. My background spans C2C, B2B, and B2B2C product environments — I am particularly effective in cross-cultural and international engineering contexts.',
     'services.tag': 'What I Offer',
     'services.title': 'Advisory Services',
     'services.sub': 'Tailored engagements for companies at every stage of engineering growth.',
@@ -149,6 +166,7 @@ const translations = {
     'hero.line1': 'エンジニアリングリーダーシップを、',
     'hero.line2': '再定義する。',
     'hero.sub': 'スタートアップ・テック企業のエンジニアリング組織づくりをサポートします。アドバイザー、フラクショナルCTO、VPoEとして。',
+    'hero.availability': '2026年Q3のご依頼受付中',
     'hero.cta1': '相談する',
     'hero.cta2': 'サービスを見る',
     'stats.dau': '日次アクティブユーザー',
@@ -170,6 +188,22 @@ const translations = {
     'stats.langs.num': 'EN · JP · KR',
     'stats.langs': '業務使用言語',
     'stats.langs.ctx': 'トリリンガルリーダーシップ',
+    'svc.fit.label': 'こんな方に最適',
+    'svc.cto.fit': 'フルタイムCTOがいないシード〜シリーズAのスタートアップ',
+    'svc.vpe.fit': 'エンジニアリング組織を急拡大中のシリーズA〜C企業',
+    'svc.advisory.fit': '信頼できる技術的サウンディングボードを求める創業者・エンジニアリングリーダー',
+    'svc.devops.fit': 'デプロイが遅い、パイプラインが脆弱、またはモノリス移行を検討しているチーム',
+    'faq.title': 'よくある質問',
+    'faq.q1': 'エンゲージメント開始までどれくらいかかりますか？',
+    'faq.a1': '初回面談から通常2〜4週間以内に開始できます。同時に1〜2件の案件を担当しているため、スケジュールが決まっている場合は早めにご連絡ください。',
+    'faq.q2': '日本国外の企業とも仕事ができますか？',
+    'faq.a2': 'はい。アジア太平洋地域および海外の企業とリモートで取り組んでいます。エンゲージメントは英語・日本語・韓国語で対応可能です。',
+    'faq.q3': 'リテイナー契約での典型的な週の動きはどのようなものですか？',
+    'faq.a3': 'ニーズによって異なります。一般的なパターンとしては、週次リーダーシップ同期、アーキテクチャレビューセッション、PRD/RFCの非同期レビュー、SlackやメールでのアドホックQ&A対応などがあります。開始時に進め方を合意します。',
+    'faq.q4': 'コミットする前に単発セッションから始めることはできますか？',
+    'faq.a4': 'はい。スコープを定めた探索セッションを提供しており、リテイナー契約の前にフィット感を確認し、具体的なエンゲージメントスコープを定義することができます。',
+    'faq.q5': 'どの業界に注力していますか？',
+    'faq.a5': 'コンシューマーテクノロジー、B2B SaaS、マーケットプレイスプラットフォームが中心です。C2C・B2B・B2B2Cのプロダクト環境での実績があり、特にクロスカルチャー・グローバルなエンジニアリング環境で強みを発揮します。',
     'services.tag': 'サービス内容',
     'services.title': 'アドバイザリーサービス',
     'services.sub': '各成長フェーズに応じたエンゲージメントを提供します。',
@@ -289,6 +323,7 @@ const translations = {
     'hero.line1': '엔지니어링 리더십을,',
     'hero.line2': '새롭게 정의하다.',
     'hero.sub': '스타트업과 테크 기업이 세계 수준의 엔지니어링 조직을 만들 수 있도록 돕습니다. 어드바이저, 프랙셔널 CTO, VPoE로서.',
+    'hero.availability': '2026년 3분기 프로젝트 수락 중',
     'hero.cta1': '함께 일하기',
     'hero.cta2': '서비스 보기',
     'stats.dau': '일간 활성 사용자',
@@ -310,6 +345,22 @@ const translations = {
     'stats.langs.num': 'EN · JP · KR',
     'stats.langs': '업무 사용 언어',
     'stats.langs.ctx': '트라이링궐 리더십',
+    'svc.fit.label': '이런 분께 적합',
+    'svc.cto.fit': '풀타임 CTO 없이 기술 리더십이 필요한 시드~시리즈 A 스타트업',
+    'svc.vpe.fit': '엔지니어링 팀을 빠르게 확장 중인 시리즈 A~C 기업',
+    'svc.advisory.fit': '믿을 수 있는 기술적 사운딩 보드가 필요한 창업자·엔지니어링 리더',
+    'svc.devops.fit': '배포가 느리거나 파이프라인이 취약하거나 모놀리스 전환을 고민 중인 팀',
+    'faq.title': '자주 묻는 질문',
+    'faq.q1': '계약 시작까지 얼마나 걸리나요?',
+    'faq.a1': '첫 미팅 이후 보통 2~4주 이내에 시작할 수 있습니다. 동시에 1~2개의 프로젝트를 진행하므로, 일정이 있으시면 미리 연락 주시는 것을 권장합니다.',
+    'faq.q2': '일본 외 기업과도 일할 수 있나요?',
+    'faq.a2': '네. 아시아태평양 지역 및 해외 기업과 원격으로 협업합니다. 영어, 일본어, 한국어로 대응 가능합니다.',
+    'faq.q3': '리테이너 계약에서 일반적인 한 주는 어떻게 진행되나요?',
+    'faq.a3': '필요에 따라 다릅니다. 일반적으로 주간 리더십 싱크, 아키텍처 리뷰 세션, PRD/RFC 비동기 리뷰, Slack/이메일을 통한 임시 질의응답 등으로 구성됩니다. 시작 시 진행 방식을 합의합니다.',
+    'faq.q4': '커밋하기 전에 단발 세션으로 시작할 수 있나요?',
+    'faq.a4': '네. 범위를 한정한 탐색 세션을 제공하며, 리테이너 계약 전에 적합성을 확인하고 구체적인 참여 범위를 정의할 수 있습니다.',
+    'faq.q5': '어떤 산업에 집중하시나요?',
+    'faq.a5': '컨슈머 테크, B2B SaaS, 마켓플레이스 플랫폼이 중심입니다. C2C·B2B·B2B2C 프로덕트 환경의 실전 경험이 있으며, 크로스컬처·글로벌 엔지니어링 환경에서 특히 강점을 발휘합니다.',
     'services.tag': '서비스',
     'services.title': '어드바이저리 서비스',
     'services.sub': '엔지니어링 성장의 모든 단계에 맞춤화된 서비스를 제공합니다.',
@@ -559,17 +610,76 @@ function initObserver() {
   document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
 }
 
+/* ── Sticky CTA ───────────────────────────────────────────── */
+function initStickyCta() {
+  const cta   = document.getElementById('sticky-cta');
+  const close = document.getElementById('sticky-cta-close');
+  if (!cta) return;
+
+  const dismissed = sessionStorage.getItem('sticky-cta-dismissed');
+  if (dismissed) return;
+
+  let shown = false;
+  const observer = new IntersectionObserver(([entry]) => {
+    if (!entry.isIntersecting && !shown) {
+      shown = true;
+      cta.classList.add('visible');
+      cta.removeAttribute('aria-hidden');
+    } else if (entry.isIntersecting) {
+      cta.classList.remove('visible');
+    }
+  }, { threshold: 0 });
+
+  const hero = document.querySelector('.hero');
+  if (hero) observer.observe(hero);
+
+  close?.addEventListener('click', () => {
+    cta.classList.remove('visible');
+    sessionStorage.setItem('sticky-cta-dismissed', '1');
+  });
+}
+
+/* ── Dark / Light mode ────────────────────────────────────── */
+function initThemeToggle() {
+  const btn = document.getElementById('theme-toggle');
+  if (!btn) return;
+
+  const stored = localStorage.getItem('theme');
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const isDark = stored ? stored === 'dark' : prefersDark;
+
+  document.documentElement.dataset.theme = isDark ? 'dark' : 'light';
+
+  btn.addEventListener('click', () => {
+    const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+    document.documentElement.dataset.theme = next;
+    localStorage.setItem('theme', next);
+  });
+}
+
+/* ── Lang URL param ───────────────────────────────────────── */
+function initLangFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+  const lang = params.get('lang');
+  if (lang && translations[lang]) return lang;
+  return 'en';
+}
+
 /* ── Init ─────────────────────────────────────────────────── */
 document.addEventListener('DOMContentLoaded', () => {
+  const initialLang = initLangFromUrl();
   document.querySelectorAll('.lang-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       applyLang(btn.dataset.lang);
       applyPlaceholders(btn.dataset.lang);
     });
   });
-  applyPlaceholders('en');
+  applyLang(initialLang);
+  applyPlaceholders(initialLang);
   initEmailReveal();
   initContactForm();
   initObserver();
   initCountUp();
+  initStickyCta();
+  initThemeToggle();
 });
