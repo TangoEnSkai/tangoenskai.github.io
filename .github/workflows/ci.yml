@@ -34,7 +34,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           args: >
-            --exclude-mail
+            --exclude "^mailto:"
             --exclude "^https://fonts\.(googleapis|gstatic)\.com"
             --exclude "^https://github\.com/TangoEnSkai"
             --timeout 30
