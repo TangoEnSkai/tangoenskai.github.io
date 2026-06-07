@@ -1,0 +1,25 @@
+name: Sync to LiberWerk.github.io
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    name: Mirror to LiberWerk.github.io
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Push to LiberWerk.github.io
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote add target \
+            https://x-access-token:${{ secrets.LIBERWERKIO_SYNC_TOKEN }}@github.com/LiberWerk/LiberWerk.github.io.git
+          git push target main --force
