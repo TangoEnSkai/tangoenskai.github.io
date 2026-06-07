@@ -41,7 +41,7 @@ for (const [locale, checks] of Object.entries(CHECKS)) {
     await page.goto(BASE);
 
     // Switch language (EN is default — still click to be explicit)
-    await page.getByRole('button', { name: LANG_BTN[locale] }).click();
+    await page.locator(`.lang-btn[data-lang="${locale}"]`).click();
 
     for (const { key, text } of checks) {
       const el = page.locator(`[data-i18n="${key}"]`).first();
@@ -52,7 +52,7 @@ for (const [locale, checks] of Object.entries(CHECKS)) {
 
 test('[JA] no Korean characters leak into Japanese locale', async ({ page }) => {
   await page.goto(BASE);
-  await page.getByRole('button', { name: 'JP' }).click();
+  await page.locator('.lang-btn[data-lang="ja"]').click();
 
   // Collect all visible text from i18n elements
   const texts = await page.locator('[data-i18n]').allTextContents();
@@ -65,7 +65,7 @@ test('[JA] no Korean characters leak into Japanese locale', async ({ page }) => 
 
 test('[KO] no Japanese characters leak into Korean locale', async ({ page }) => {
   await page.goto(BASE);
-  await page.getByRole('button', { name: 'KR' }).click();
+  await page.locator('.lang-btn[data-lang="ko"]').click();
 
   const texts = await page.locator('[data-i18n]').allTextContents();
   const japanese = /[぀-ヿ一-鿿]/;
