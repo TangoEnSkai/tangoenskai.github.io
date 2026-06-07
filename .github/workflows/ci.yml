@@ -38,7 +38,8 @@ jobs:
             --exclude "^mailto:"
             --exclude "^https://fonts\.(googleapis|gstatic)\.com"
             --exclude "^https://github\.com/TangoEnSkai"
-            --accept 200,204,301,302,403,429
+            --exclude "^https://.*linkedin\.com"
+            --accept 200,204,301,302,403,429,999
             --timeout 30
             "**/*.html"
         env:
