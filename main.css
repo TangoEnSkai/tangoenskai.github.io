@@ -922,6 +922,13 @@ body {
   .nav-links { display: none; }
   .nav-cta { display: none; }
   .footer-inner { flex-direction: column; gap: 0.5rem; text-align: center; }
+
+  /* About section — single-column stack on mobile */
+  .about-grid { grid-template-columns: 1fr; gap: 2rem; }
+  .about-photo { order: 1; }
+  .about-sidebar { display: block; order: 2; }
+  .about-text { order: 3; }
+
   .hero-inner { grid-template-columns: 1fr; gap: 2.5rem; padding: 60px 0; }
   .hero-stats { flex-direction: row; flex-wrap: wrap; border-left: none; padding-left: 0; border-top: 1px solid var(--border); padding-top: 2rem; gap: 1.5rem; }
   .hero-stat-number { font-size: 2rem; }
