@@ -6,6 +6,15 @@
   <title>Mark Hahn — LiberWerk</title>
   <meta name="description" content="Engineering leadership advisory. CTO-as-a-Service, VP of Engineering consulting, and startup technical advisory by Mark Hahn." />
 
+  <!-- Content-Security-Policy
+       script-src: 'self' only — <script type="application/ld+json"> is not executable JS and is not covered by script-src.
+       style-src: 'unsafe-inline' required for inline styles; fonts.googleapis.com for the Google Fonts stylesheet.
+       Note on SRI for Google Fonts: Google Fonts returns dynamically generated CSS that varies per browser
+       User-Agent, making it architecturally incompatible with SRI (the hash would change per request).
+       Mitigation: restricting style-src to the exact origin (fonts.googleapis.com) provides equivalent
+       origin control without SRI. See Issue #47. -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self' mailto:;" />
+
   <!-- hreflang -->
   <link rel="alternate" hreflang="en" href="https://liberwerk.github.io/" />
   <link rel="alternate" hreflang="ja" href="https://liberwerk.github.io/?lang=ja" />
@@ -116,7 +125,7 @@
         </p>
         <div class="hero-actions">
           <a href="/contact.html" class="btn btn-primary" data-i18n="hero.cta1">Work with Me</a>
-          <a href="#services" class="btn btn-ghost" data-i18n="hero.cta2">See Services</a>
+          <a href="#services" class="hero-link" data-i18n="hero.cta2">See Services</a>
         </div>
         <div class="hero-social">
           <a href="https://www.linkedin.com/in/junhahn/" target="_blank" rel="noopener" class="hero-social-link">
