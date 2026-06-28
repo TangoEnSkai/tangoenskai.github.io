@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://liberwerk.github.io/sitemap.xml
