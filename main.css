@@ -853,6 +853,18 @@ body {
   .nav-links { display: none; }
   .nav-cta { display: none; }
   .footer-inner { flex-direction: column; gap: 0.5rem; text-align: center; }
+
+  /* About section — single-column stack on mobile */
+  .about-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .about-photo { order: 1; }
+  .about-sidebar {
+    display: block; /* override the hide at 1100px */
+    order: 2;       /* sidebar before bio text */
+  }
+  .about-text { order: 3; }
 }
 
 @media (max-width: 480px) {
