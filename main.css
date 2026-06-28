@@ -242,7 +242,7 @@ body {
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
   background: var(--bg2);
-  padding: 4rem 0;
+  padding: 3.5rem 0;
 }
 .stats-grid {
   display: grid;
@@ -309,11 +309,29 @@ body {
 }
 .section-sub { font-size: 1rem; color: var(--muted); max-width: 500px; }
 
+/* ── Hero link (secondary CTA) ────────────────────────────── */
+.hero-link {
+  display: inline-flex;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--muted);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--border);
+  transition: color var(--transition), text-decoration-color var(--transition);
+  padding: 12px 4px;
+}
+.hero-link:hover {
+  color: var(--text);
+  text-decoration-color: var(--muted);
+}
+
 /* ── Services ─────────────────────────────────────────────── */
-.services { padding: 6rem 0; }
+.services { padding: 5.25rem 0; }
 .services-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 1.5px;
   background: var(--border);
   border: 1px solid var(--border);
@@ -333,22 +351,18 @@ body {
 .service-card h3 { font-size: 1.05rem; font-weight: 600; margin-bottom: 0.75rem; letter-spacing: -0.01em; }
 .service-card p { font-size: 14px; color: var(--muted); line-height: 1.65; flex: 1; }
 
-/* Full-width 5th card */
+/* 5th service card — balanced in 3-col grid */
 .service-card--full {
-  grid-column: 1 / -1;
   background: var(--bg2);
-  border-top: 1px solid var(--border);
 }
 .service-card--full:hover { background: var(--bg3); }
 .service-card-full-inner {
   display: flex;
-  gap: 1.5rem;
-  align-items: flex-start;
+  flex-direction: column;
+  gap: 1rem;
 }
 .service-card-full-inner .service-icon {
-  font-size: 1.2rem;
-  flex-shrink: 0;
-  margin-top: 0.1rem;
+  font-size: 1.4rem;
 }
 .service-card-full-inner > div { flex: 1; }
 .accent-tag {
@@ -376,7 +390,7 @@ body {
 
 /* ── Social Proof ─────────────────────────────────────────── */
 .proof {
-  padding: 6rem 0;
+  padding: 5.25rem 0;
   background: var(--bg2);
 }
 .proof-grid {
@@ -429,13 +443,13 @@ body {
 }
 
 /* ── Experience ───────────────────────────────────────────── */
-.experience { padding: 6rem 0; }
+.experience { padding: 5.25rem 0; }
 .timeline { display: flex; flex-direction: column; }
 .timeline-item {
   display: grid;
   grid-template-columns: 200px 1fr;
   gap: 2rem;
-  padding: 2rem 0;
+  padding: 1.75rem 0;
   border-top: 1px solid var(--border);
 }
 .timeline-item:last-child { border-bottom: 1px solid var(--border); }
@@ -505,7 +519,7 @@ body {
 
 /* ── About / Advisor Profile ──────────────────────────────── */
 .about {
-  padding: 6rem 0;
+  padding: 5.25rem 0;
   background: var(--bg2);
 }
 .about .section-header { margin-bottom: 2.5rem; }
@@ -648,7 +662,7 @@ body {
 .based-value { font-size: 14px; color: var(--text); font-weight: 500; }
 
 /* ── Contact ──────────────────────────────────────────────── */
-.contact { padding: 6rem 0; }
+.contact { padding: 5.25rem 0; }
 .contact-inner {
   max-width: 620px;
   margin: 0 auto;
