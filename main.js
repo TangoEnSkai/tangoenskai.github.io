@@ -3,7 +3,7 @@ const translations = {
   en: {
     'nav.services': 'Services',
     'nav.experience': 'Experience',
-    'nav.about': 'About',
+    'nav.about': 'Profile',
     'nav.cta': 'Get in Touch',
     'hero.label': 'LiberWerk Advisory',
     'hero.line1': 'Engineering Leadership,',
