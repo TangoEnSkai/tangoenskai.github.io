@@ -3,7 +3,7 @@ const translations = {
   en: {
     'nav.services': 'Services',
     'nav.experience': 'Experience',
-    'nav.about': 'About',
+    'nav.about': 'Profile',
     'nav.cta': 'Get in Touch',
     'hero.label': 'LiberWerk Advisory',
     'hero.line1': 'Engineering Leadership,',
@@ -409,7 +409,7 @@ const translations = {
   ko: {
     'nav.services': '서비스',
     'nav.experience': '경력',
-    'nav.about': '소개',
+    'nav.about': '프로필',
     'nav.cta': '문의하기',
     'hero.label': 'LiberWerk 어드바이저리',
     'hero.line1': '엔지니어링 리더십을,',
