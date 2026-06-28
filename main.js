@@ -514,7 +514,7 @@ function initEmailReveal() {
     const link = document.createElement('a');
     link.href = 'mailto:' + addr;
     link.textContent = addr;
-    revealed.innerHTML = '';
+    revealed.replaceChildren();
     revealed.appendChild(link);
     revealed.hidden = false;
     btn.hidden = true;
@@ -533,10 +533,10 @@ function initContactForm() {
     const t = translations[currentLang];
 
     const data = new FormData(form);
-    const name    = (data.get('name') || '').trim();
-    const company = (data.get('company') || '').trim();
+    const name    = (data.get('name') || '').trim().replace(/[\r\n]/g, '');
+    const company = (data.get('company') || '').trim().replace(/[\r\n]/g, '');
     const email   = (data.get('email') || '').trim();
-    const service = (data.get('service') || '').trim();
+    const service = (data.get('service') || '').trim().replace(/[\r\n]/g, '');
     const message = (data.get('message') || '').trim();
 
     const subject = encodeURIComponent(
@@ -661,7 +661,7 @@ function initThemeToggle() {
 function initLangFromUrl() {
   const params = new URLSearchParams(window.location.search);
   const lang = params.get('lang');
-  if (lang && translations[lang]) return lang;
+  if (['en', 'ja', 'ko'].includes(lang)) return lang;
   return 'en';
 }
 
