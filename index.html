@@ -6,6 +6,15 @@
   <title>Mark Hahn — LiberWerk</title>
   <meta name="description" content="Engineering leadership advisory. CTO-as-a-Service, VP of Engineering consulting, and startup technical advisory by Mark Hahn." />
 
+  <!-- Content-Security-Policy
+       script-src: 'self' only — <script type="application/ld+json"> is not executable JS and is not covered by script-src.
+       style-src: 'unsafe-inline' required for inline styles; fonts.googleapis.com for the Google Fonts stylesheet.
+       Note on SRI for Google Fonts: Google Fonts returns dynamically generated CSS that varies per browser
+       User-Agent, making it architecturally incompatible with SRI (the hash would change per request).
+       Mitigation: restricting style-src to the exact origin (fonts.googleapis.com) provides equivalent
+       origin control without SRI. See Issue #47. -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self' mailto:;" />
+
   <!-- hreflang -->
   <link rel="alternate" hreflang="en" href="https://liberwerk.github.io/" />
   <link rel="alternate" hreflang="ja" href="https://liberwerk.github.io/?lang=ja" />
@@ -334,7 +343,7 @@
             <span class="timeline-badge" data-i18n="badge.current">Current</span>
           </div>
           <div class="timeline-content">
-            <div class="timeline-company">OneCareer</div>
+            <div class="timeline-company">ONE CAREER Inc.</div>
             <div class="role-list">
               <div class="role-item">
                 <span class="role-title">Senior Engineering Manager</span>
