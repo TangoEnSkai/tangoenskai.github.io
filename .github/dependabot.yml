@@ -9,7 +9,3 @@ updates:
       prefix: "ci"
     labels:
       - "dependencies"
-  - package-ecosystem: "npm"
-    directory: "/"
-    schedule:
-      interval: "weekly"
