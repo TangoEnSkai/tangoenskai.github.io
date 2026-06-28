@@ -121,10 +121,10 @@ form.addEventListener('submit', (e) => {
   e.preventDefault();
   const t = window.translations?.[window.currentLang || 'en'] || {};
 
-  const name    = document.getElementById('cf-name')?.value.trim() || '';
-  const company = document.getElementById('cf-company')?.value.trim() || '';
+  const name    = (document.getElementById('cf-name')?.value.trim() || '').replace(/[\r\n]/g, '');
+  const company = (document.getElementById('cf-company')?.value.trim() || '').replace(/[\r\n]/g, '');
   const email   = document.getElementById('cf-email')?.value.trim() || '';
-  const service = document.getElementById('cf-service-hidden')?.value || selectedService || '';
+  const service = (document.getElementById('cf-service-hidden')?.value || selectedService || '').replace(/[\r\n]/g, '');
   const message = document.getElementById('cf-message')?.value.trim() || '';
 
   // Collect chip selections
