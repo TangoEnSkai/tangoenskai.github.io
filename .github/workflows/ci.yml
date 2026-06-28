@@ -6,9 +6,6 @@ on:
   pull_request:
     branches: [main]
 
-permissions:
-  contents: read
-
 jobs:
   lint-html:
     name: HTML Lint
@@ -25,7 +22,7 @@ jobs:
         run: npm install -g htmlhint
 
       - name: Run HTMLHint
-        run: htmlhint "*.html" --config .htmlhintrc
+        run: htmlhint "**/*.html" --config .htmlhintrc
 
   check-links:
     name: Broken Link Check
