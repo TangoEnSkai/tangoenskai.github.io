@@ -73,9 +73,18 @@ body {
   text-decoration: none;
   letter-spacing: -0.01em;
   display: flex;
-  align-items: baseline;
+  align-items: center;
   gap: 0.5rem;
   flex-shrink: 0;
+}
+
+.nav-logo-mark {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  outline: 1px solid rgba(255, 255, 255, 0.14);
+  outline-offset: -1px;
 }
 
 .nav-logo-sub {
