@@ -34,7 +34,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           args: >
-            --base https://liberwerk.github.io
+            --root-dir ${{ github.workspace }}
             --exclude "^mailto:"
             --exclude "^https://fonts\.(googleapis|gstatic)\.com"
             --exclude "^https://github\.com/TangoEnSkai"
